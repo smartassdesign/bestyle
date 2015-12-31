@@ -1,0 +1,152 @@
+ header, footer {
+ 	flex: none; /* 2 */
+ 	z-index: 1;
+ }
+
+
+ body.flexbox {
+ 	display: flex;
+ 	flex-direction: column;
+ 	height: 100vh;
+   min-height: 100vh;
+ }
+
+
+ .site-content {
+   // flex: 1; /* 2 */
+   flex:1 0 auto;
+   // padding:1.5em 1.5em 0;
+   padding: 0;
+   // padding: var(--space) var(--space) 0;
+   width: 100%;
+   position: relative;
+   // overflow-y: auto;
+ }
+
+
+
+	.site-content {
+		padding: 0;
+		background: transparent;
+
+		.pg-aligner {
+		  display: flex;
+		  align-items: center;
+		  justify-content: center;
+		  height: 100vh;// calc(100vh - 71px);
+		}
+
+		.aligner-item {
+		  // text-align: center;
+		}
+}
+
+
+// NAVIGATION
+
+.navbar {
+	padding: 0;
+}
+
+a.navbar-brand {
+    background: url('../img/bein-logo-k-250-2x.png') no-repeat;
+    text-indent: -9999px;
+    width: 200px;
+    height: 200px;
+    background-size: contain;
+}
+
+div#navbar {
+    line-height: 200px;	
+}
+
+#menu-primary li > a {
+    font-size: 30px;
+    color: #333;
+    font-weight: 300;
+}
+
+nav.navbar.navbar-static-top {
+	
+}
+
+
+
+
+////FOOTER
+.footer-logo img {
+	height: 100px;
+}
+
+
+
+h4 {
+	font-family: $cubano;
+}
+
+
+
+
+
+
+article#be-innovative-symposium {
+	.row {
+		border-bottom: 1px solid #ddd;
+
+		&:last-of-type {
+			border: 0;
+		}
+	}
+}
+
+
+
+
+
+
+
+
+
+
+// VERTICAL MODAL TEST #3
+
+.vertical-alignment-helper {
+    display:table;
+    height: 100%;
+    width: 100%;
+    pointer-events:none;
+}
+.vertical-align-center {
+    /* To center vertically */
+    display: table-cell;
+    vertical-align: middle;
+    pointer-events:none;
+}
+.modal-content {
+    /* Bootstrap sets the size of the modal in the modal-dialog class, we need to inherit it */
+    // width:inherit;
+    // height:inherit;
+    // /* To center horizontally */
+    // margin: 0 auto;
+    max-width: 95%;
+    margin: 0 auto;
+    pointer-events:all;
+    border: 15px solid $brand-primary;
+    border-radius: 0;
+}
+
+
+
+::selection { color: #fff;
+  background-color: gold;
+}
+::-moz-selection { color: #fff;
+  background-color: gold;
+}	
+
+
+
+:focus {
+	outline: 0!important;
+	// outline: -webkit-focus-ring-color auto 5px;
+}
