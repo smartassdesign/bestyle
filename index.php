@@ -10,11 +10,11 @@ $posts_without_thumbnails = array_filter($posts,  function($post){
   return ( wp_get_attachment_thumb_url( $post_thumbnail_id ) == "");
 } ); ?>
 
-<div class="container">
-
-	<div class="m-y-3">
-		<?php echo get_the_post_thumbnail( $post_id, 'full', array( 'class' => 'img-fluid img-featured' ) ); ?>
+	<div class="m-b-3">
+		<?php echo get_the_post_thumbnail( $post->ID, 'full', array( 'class' => 'img-fluid img-featured' ) ); ?>
 	</div>
+
+<div class="container">
 
 	<article id="<?php echo $post->post_name;?>">
 

@@ -3,7 +3,7 @@
 
 
 
- <footer class="p-y-md">
+ <footer class="m-t-3 p-y-2">
 	<div class="container">
       <div class="row">
          <div class="col-sm-4 col-sm-offset-4 footer-logo">
@@ -30,9 +30,9 @@
 </footer>
 
 
-<?php /*get_template_part('quick/modal-mailing');  ?>
+<?php get_template_part('quick/modal-mailing');  ?>
 
-<?php get_template_part('quick/modal-info');  ?>
+<?php /*get_template_part('quick/modal-info');  ?>
 
 <?php include("quick/modal-ngihca.php"); */ ?>
 

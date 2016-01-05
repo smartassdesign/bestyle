@@ -51,29 +51,80 @@
 a.navbar-brand {
     background: url('../img/bein-logo-k-250-2x.png') no-repeat;
     text-indent: -9999px;
-    width: 200px;
-    height: 200px;
+    width: 75px;
+    height: 75px;
+    margin-top: 12px;
     background-size: contain;
 }
 
 div#navbar {
-    line-height: 200px;	
+    line-height: 99px;	
 }
 
 #menu-primary li > a {
-    font-size: 30px;
+    font-size: 28px;
     color: #333;
-    font-weight: 300;
+    font-weight: 500;
+    // font-size: 18px;
+    // color: #333;
+    // font-weight: 600;
+    // text-transform: uppercase;
+    // letter-spacing: 1px;
+
 }
+
+
+#menu-secondary-menu li > a {
+    // font-size: 16px;
+    // color: #333;
+    // font-weight: 400;
+    // text-transform: uppercase;
+    // line-height: 2em;
+    font-size: 14px;
+    color: #333;
+    font-weight: 600;
+    line-height: 2em;    
+}
+
+div#pre-navbar {
+    line-height: 50px;	
+}
+
 
 nav.navbar.navbar-static-top {
 	
+}
+
+.navbar-nav .nav-item+.nav-item {
+	margin-left: 2rem;
+}
+
+.bgko {
+	background: $white;
+	border-top: 1px solid #ddd;
+	border-bottom: 1px solid #ddd; 
+}
+
+
+//// SIDENAV
+
+.inner-nav li > a {
+	color: $gray;
+	font-weight: 600;
+	text-transform: uppercase;
+	font-size: 16px;
 }
 
 
 
 
 ////FOOTER
+
+footer {
+	background: $gray-lighter;
+}
+
+
 .footer-logo img {
 	height: 100px;
 }
@@ -85,8 +136,9 @@ h4 {
 }
 
 
-
-
+.cutbox p {
+    margin-bottom: 0;
+}
 
 
 article#be-innovative-symposium {
@@ -124,11 +176,11 @@ article#be-innovative-symposium {
 }
 .modal-content {
     /* Bootstrap sets the size of the modal in the modal-dialog class, we need to inherit it */
-    // width:inherit;
-    // height:inherit;
+    width:inherit;
+    height:inherit;
     // /* To center horizontally */
     // margin: 0 auto;
-    max-width: 95%;
+    // max-width: 95%;
     margin: 0 auto;
     pointer-events:all;
     border: 15px solid $brand-primary;
@@ -138,10 +190,10 @@ article#be-innovative-symposium {
 
 
 ::selection { color: #fff;
-  background-color: gold;
+  background-color: $blue;
 }
 ::-moz-selection { color: #fff;
-  background-color: gold;
+  background-color: $blue;
 }	
 
 

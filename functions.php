@@ -65,3 +65,59 @@ function sdtheme_setup() {
 
 add_action( 'after_setup_theme', 'sdtheme_setup' );
 
+
+
+
+/// POTENTIALLY for setting auto subnav pages....
+
+// function is_subpage() {
+// global $post;
+// if ( is_page() && $post->post_parent ) {
+// $parentID = $post->post_parent;
+// return $parentID;
+// } else {
+// return false;
+// };
+// };
+
+
+
+
+
+
+// function has_children() {
+//   global $post;
+  
+//   $pages = get_pages('child_of=' . $post->ID);
+  
+//   return count($pages);
+// }
+
+// function is_top_level() {
+//   global $post, $wpdb;
+  
+//   $current_page = $wpdb->get_var("SELECT post_parent FROM $wpdb->posts WHERE ID = " . $post->ID);
+  
+//   return $current_page;
+// }
+
+
+
+if(!function_exists('get_post_top_ancestor_id')){
+/**
+ * Gets the id of the topmost ancestor of the current page. Returns the current
+ * page's id if there is no parent.
+ * 
+ * @uses object $post
+ * @return int 
+ */
+function get_post_top_ancestor_id(){
+    global $post;
+    
+    if($post->post_parent){
+        $ancestors = array_reverse(get_post_ancestors($post->ID));
+        return $ancestors[0];
+    }
+    
+    return $post->ID;
+}}

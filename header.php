@@ -45,7 +45,30 @@
 
 <header>
 
+<div class="container">
+	<div class="row">
+		<div class="col-xs-12">
+			<nav class="navbar navbar-static-top">
+				<?php 
+						wp_nav_menu( array(
+							'menu'              => 'secondary',
+							'theme_location'    => 'secondary',
+							'depth'             => 1,
+							'container'         => 'div',
+							'container_class'   => 'navbar-default pull-xs-right',
+							'container_id'      => 'pre-navbar',
+							'menu_class'        => 'nav navbar-nav',
+							'fallback_cb'       => 'wp_bootstrap_navwalker::fallback',
+							'walker'            => new wp_bootstrap_navwalker())
+				            );
+				?>
+			</nav>
+		</div> <!-- /.col-xs-12 -->
+	</div> <!-- /.row -->
+</div> <!-- /.container -->
 
+
+<div class="container-fluid bgko">
 <div class="container">
 <div class="row">
 <div class="col-xs-12">
@@ -121,6 +144,7 @@
 </div> <!-- /.col-xs-12 -->
 </div> <!-- /.row -->
 </div> <!-- /.container -->
+</div> <!-- /.container-fluid -->
 
 </header>
 
