@@ -55,6 +55,14 @@ a.navbar-brand {
     height: 75px;
     margin-top: 12px;
     background-size: contain;
+
+		@include media-breakpoint-down(sm) {
+			width: 50px;
+			height: 50px;
+			margin-top: 5px;
+			margin-bottom: 5px;
+		}
+
 }
 
 div#navbar {
@@ -81,8 +89,8 @@ div#navbar {
     // text-transform: uppercase;
     // line-height: 2em;
     font-size: 14px;
-    color: #333;
-    font-weight: 600;
+    color: #fff;
+    font-weight: 400;
     line-height: 2em;    
 }
 
@@ -99,12 +107,67 @@ nav.navbar.navbar-static-top {
 	margin-left: 2rem;
 }
 
-.bgko {
-	background: $white;
-	border-top: 1px solid #ddd;
-	border-bottom: 1px solid #ddd; 
+
+ul#menu-mobile-holder {
+	margin-bottom: 0;
 }
 
+ul#menu-mobile {
+    float: left;
+    width: 100%;
+    margin: 5px 0;
+}
+
+.navbar-toggler {
+	height: 61px;
+}
+
+
+// GIVE ACTIVE MENU ITEMS AN INDICATOR
+#menu-primary li.current-menu-item.active, #menu-primary li.current-page-ancestor {
+	position: relative;
+
+	&:before {
+    position: absolute;
+    bottom: -14px;
+    left: calc(50% - 12.5px);
+    font-size: 43px;
+    color: $gray-lightest; 
+    // color: rgba(221, 221,221, 0.5);
+    content: "\f0d8";
+    font-family: 'icomoon';
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+	}
+}
+
+// AND A DIFFERENT ONE FOR MINI MENU ITEMS
+#menu-secondary-menu li.current-menu-item.active > a, #menu-secondary-menu li.current-page-ancestor > a {
+	color: $blue;
+}
+
+
+// AND A THIRD ONE FOR SIDENAV ITEMS WITHIN SUB-PAGES
+.inner-nav li.current_page_item > a {
+	color: $black;
+	font-weight: 700;
+}
+
+
+
+.bgko {
+	background: $white;
+	border-bottom: 2px solid $gray-lightest; 
+	// border-bottom: 2px solid rgba(221,221,221,0.5); 
+}
+
+.bgk {
+	background: $black;
+}
 
 //// SIDENAV
 
@@ -113,6 +176,7 @@ nav.navbar.navbar-static-top {
 	font-weight: 600;
 	text-transform: uppercase;
 	font-size: 16px;
+	margin-bottom: 10px;	
 }
 
 
@@ -121,7 +185,7 @@ nav.navbar.navbar-static-top {
 ////FOOTER
 
 footer {
-	background: $gray-lighter;
+	background: $white;
 }
 
 

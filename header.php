@@ -45,30 +45,32 @@
 
 <header>
 
-<div class="container">
-	<div class="row">
-		<div class="col-xs-12">
-			<nav class="navbar navbar-static-top">
-				<?php 
-						wp_nav_menu( array(
-							'menu'              => 'secondary',
-							'theme_location'    => 'secondary',
-							'depth'             => 1,
-							'container'         => 'div',
-							'container_class'   => 'navbar-default pull-xs-right',
-							'container_id'      => 'pre-navbar',
-							'menu_class'        => 'nav navbar-nav',
-							'fallback_cb'       => 'wp_bootstrap_navwalker::fallback',
-							'walker'            => new wp_bootstrap_navwalker())
-				            );
-				?>
-			</nav>
-		</div> <!-- /.col-xs-12 -->
-	</div> <!-- /.row -->
-</div> <!-- /.container -->
+<div class="container-fluid bgk hidden-sm-down">
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-12">
+				<nav class="navbar navbar-static-top">
+					<?php 
+							wp_nav_menu( array(
+								'menu'              => 'secondary',
+								'theme_location'    => 'secondary',
+								'depth'             => 1,
+								'container'         => 'div',
+								'container_class'   => 'navbar-default pull-xs-right',
+								'container_id'      => 'pre-navbar',
+								'menu_class'        => 'nav navbar-nav',
+								'fallback_cb'       => 'wp_bootstrap_navwalker::fallback',
+								'walker'            => new wp_bootstrap_navwalker())
+					            );
+					?>
+				</nav>
+			</div> <!-- /.col-xs-12 -->
+		</div> <!-- /.row -->
+	</div> <!-- /.container -->
+</div> <!-- /.container-fluid -->
 
 
-<div class="container-fluid bgko">
+<div class="container-fluid bgko hidden-sm-down">
 <div class="container">
 <div class="row">
 <div class="col-xs-12">
@@ -145,6 +147,49 @@
 </div> <!-- /.row -->
 </div> <!-- /.container -->
 </div> <!-- /.container-fluid -->
+
+
+
+		<div class="hidden-md-up">
+	  <div class="container-fluid">
+		<div class="row">
+			<div class="col-md-12">		
+
+			<a class="navbar-brand" href="<?php echo esc_url( home_url( '/' ) ); ?>">Brooklyn Education Innovation Network</a>
+		<ul id="menu-mobile-holder" class="list-inline pull-xs-right">
+			<li><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-mobile">☰</button></li>
+		</ul>
+		
+
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+	<div class="navbar-collapse collapse inverse hidden-md-up" id="navbar-mobile">
+
+				<?php
+					if(has_nav_menu('mobile')) {
+						$args = array(
+							'theme_location'   => 'mobile',
+							'depth'      => 1,
+							'container'  => false,
+							'menu_class'     => 'list-unstyled',
+						);
+						wp_nav_menu($args);
+					}
+				?>
+</div> <!-- /.col-md-12 -->				
+</div> <!-- /.row -->
+</div> <!-- /.container -->
+
+
+
+			</div> <!-- /.col-md-12 -->
+		</div> <!-- /.row -->
+	  </div> <!-- /.container -->
+	</div> <!-- /.navbar-collapse collapse inverse -->
+
+
+</div> <!-- /.pull-xs-right -->
 
 </header>
 

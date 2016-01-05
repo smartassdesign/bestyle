@@ -30,7 +30,7 @@ $gray-dark:                 #373a3c !default;
 $gray:                      #55595c !default;
 $gray-light:                #818a91 !default;
 $gray-lighter:              #eceeef !default;
-$gray-lightest:             #f7f7f9 !default;
+$gray-lightest:             #f1f1f1; //#f7f7f9 !default;
 
 $brand-primary:             #fa0d1c; // #337ab7
 $brand-success:             #5cb85c !default;
@@ -47,7 +47,7 @@ $yellow:        #ffd316;
 $green:         #73b84d;
 
 $white:          #fff;
-
+$black:          #000;
 
 // Options
 //
@@ -95,7 +95,7 @@ $border-width:               1px !default;
 //
 // Settings for the `<body>` element.
 
-$body-bg:                    #f9f9f9; //#fff !default;
+$body-bg:                    $gray-lightest; //#f9f9f9; //#fff !default;
 $body-color:                 $gray-dark !default;
 
 
