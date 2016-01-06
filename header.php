@@ -31,7 +31,7 @@
 
 		</title>
 
-		<script src="//use.typekit.net/ygx1hux.js"></script>
+		<script src="https://use.typekit.net/nvn6ujv.js"></script>
 		<script>try{Typekit.load({ async: true });}catch(e){}</script>
 
 		<!-- $TODO Replace w/ local files for production -->
