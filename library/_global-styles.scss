@@ -79,6 +79,10 @@ div#navbar {
     // text-transform: uppercase;
     // letter-spacing: 1px;
 
+	&:hover {
+		opacity: .7;
+		transition: .2s all ease-in-out;
+	}
 }
 
 
@@ -127,22 +131,34 @@ ul#menu-mobile {
 #menu-primary li.current-menu-item.active, #menu-primary li.current-page-ancestor {
 	position: relative;
 
+	// THIS IS FOR A TRIANGLE OVER CONTENT AREA
+	// &:before {
+ //    position: absolute;
+ //    bottom: -14px;
+ //    left: calc(50% - 12.5px);
+ //    font-size: 43px;
+ //    color: $gray-lightest; 
+ //    content: "\f0d8";
+ //    font-family: 'icomoon';
+ //    speak: none;
+ //    font-style: normal;
+ //    font-weight: normal;
+ //    font-variant: normal;
+ //    text-transform: none;
+ //    line-height: 1;
+	// }
+
+	// THIS IS FOR A RULE UNDER THE ACTIVE NAV
 	&:before {
-    position: absolute;
-    bottom: -14px;
-    left: calc(50% - 12.5px);
-    font-size: 43px;
-    color: $gray-lightest; 
-    // color: rgba(221, 221,221, 0.5);
-    content: "\f0d8";
-    font-family: 'icomoon';
-    speak: none;
-    font-style: normal;
-    font-weight: normal;
-    font-variant: normal;
-    text-transform: none;
-    line-height: 1;
+	position: absolute;
+    bottom: 24px;
+    content: "";
+    height: 3px;
+    background: #000;
+    width: 100%;
 	}
+
+
 }
 
 // AND A DIFFERENT ONE FOR MINI MENU ITEMS
@@ -155,6 +171,7 @@ ul#menu-mobile {
 .inner-nav li.current_page_item > a {
 	color: $black;
 	font-weight: 700;
+	border-right: 5px solid $black;
 }
 
 
@@ -171,12 +188,26 @@ ul#menu-mobile {
 
 //// SIDENAV
 
+.inner-nav {
+	border-right: 1px solid #c4c4c4;
+    margin-right: -1px;
+}
+
+
 .inner-nav li > a {
 	color: $gray;
 	font-weight: 600;
 	text-transform: uppercase;
 	font-size: 16px;
-	margin-bottom: 10px;	
+    margin-bottom: 0;
+    display: block;
+    line-height: 16px;
+    padding: 7px 0;
+	display: block;
+	&:hover {
+		opacity: .7;
+		transition: .2s all ease-in-out;
+	}	
 }
 
 
@@ -204,6 +235,19 @@ h4 {
     margin-bottom: 0;
 }
 
+// For social media icons
+.cutbox span {
+    display: inline-block;
+    margin-left: 14px;
+}
+
+.cutbox .mailink {
+	color: $gray-dark;
+	&:hover {
+		color: $red;
+	}
+}
+
 
 article#be-innovative-symposium {
 	.row {
@@ -228,6 +272,28 @@ article#be-innovative-symposium {
 	border: 1px dashed #000;
 }
 
+
+
+
+
+////  HEADINGS and such
+
+article h3 {
+    font-size: 30px;
+    line-height: 25px;
+    font-weight: 600;
+    text-transform: uppercase;
+    border-bottom: 1px solid #c4c4c4;
+    margin: 46px 0 23px 0;
+    padding-bottom: 24px;	
+}
+
+
+article h4 {
+	font-size: 1.125rem;
+	font-weight: 700;
+	font-family: $klavika;
+}
 
 
 
