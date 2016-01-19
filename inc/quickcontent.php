@@ -14,3 +14,11 @@ function culture_shortcode( $attr ) {
     return ob_get_clean();
 }
 add_shortcode( 'culture', 'culture_shortcode' );
+
+
+function events_shortcode( $attr ) {
+    ob_start();
+    get_template_part( 'quick/pg-events' );
+    return ob_get_clean();
+}
+add_shortcode( 'events', 'events_shortcode' );

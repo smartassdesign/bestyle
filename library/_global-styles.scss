@@ -299,6 +299,45 @@ article h4 {
 
 
 
+// HOME PAGE TESTS
+
+.page-home {
+
+	.mission h1 {
+		text-transform: uppercase;
+    	font-weight: 600;
+	}
+
+	.mission h2 {
+		font-weight: 300;
+	}
+
+	.job-box h3 {
+		background: #000;
+		color: #fff;
+		padding: 20px;
+		&:hover {
+			color: $blue;
+		}
+	}
+
+	.quicklinks h5 {
+		text-transform: uppercase;
+    	font-weight: 600;
+    	font-size: 1em;
+    	margin-top: 10px;
+	}
+
+}
+
+
+
+
+
+
+
+
+
 
 
 // VERTICAL MODAL TEST #3

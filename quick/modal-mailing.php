@@ -6,7 +6,8 @@
         <div class="modal-body">
           <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
           <h2>Join our mailing list.</h2>
-          <?php echo do_shortcode('[gravityform id="8" name="Join our mailing list" title="false" description="false" ajax="true"]') ?>
+          <p>Sign up here</p>
+          <?php /* echo do_shortcode('[gravityform id="8" name="Join our mailing list" title="false" description="false" ajax="true"]') */ ?>
         </div>
       </div>
     </div>
