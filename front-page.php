@@ -5,8 +5,7 @@
 		<div class="col-md-10 col-md-offset-1">
 			<div class="mission m-y-3 text-md-center">
 				<h1>Downtown Brooklyn is a College Town and a Center for Innovation.</h1>
-				<h2>BE.IN serves as a local talent pipeline connecting students to industry and community
-through internships, jobs, events, and programming.</h2>
+				<h2>The Brooklyn Education Innovation Network (BE.IN) serves as a local talent pipeline connecting students to industry and community through internships, jobs, events, and programming.</h2>
 			</div> <!-- /.mission -->
 		</div> <!-- /.col-md-12 -->
 	</div> <!-- /.row -->
@@ -24,7 +23,8 @@ $posts_without_thumbnails = array_filter($posts,  function($post){
 } ); ?>
 
 	<div class="m-b-3">
-		<?php echo get_the_post_thumbnail( $post->ID, 'full', array( 'class' => 'img-fluid img-featured' ) ); ?>
+	<?php echo do_shortcode('[new_royalslider id="1"]')  ?>
+		<?php /*echo get_the_post_thumbnail( $post->ID, 'full', array( 'class' => 'img-fluid img-featured' ) ); */ ?>
 	</div>
 
 <div class="container">

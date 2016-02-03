@@ -332,7 +332,20 @@ article h4 {
 
 
 
+// SYMPOSIUM PAGE
 
+.page-symposium .event {
+	border-bottom: 1px solid #ddd;
+	margin-bottom: 30px;
+	padding-bottom: 30px;
+	float: left;
+	width: 	100%;
+
+	ul.panelists li {
+		line-height: 1.2;
+		// margin-bottom: 15px;
+	}
+}
 
 
 

@@ -1,3 +1,6 @@
+<?php echo do_shortcode('[new_royalslider id="1"]')  ?>
+
+
 <h3>January</h3>
 1/20 or 1/21 - BE.INNOVATIVE Meetup (Faculty and Staff)) 
 Career Services – Law 

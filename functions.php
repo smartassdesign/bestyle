@@ -121,3 +121,8 @@ function get_post_top_ancestor_id(){
     
     return $post->ID;
 }}
+
+
+
+
+register_new_royalslider_files(1); 
