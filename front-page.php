@@ -40,21 +40,21 @@ $posts_without_thumbnails = array_filter($posts,  function($post){
 		
 		<a href="<?php echo home_url(); ?>/students-alumni">
 			<div class="col-md-4">
-				<img src="http://placehold.it/300x150" class="img-fluid">
+				<img src="http://placehold.it/600x250" class="img-fluid">
 				<h5>Students + Alumni</h5>	
 			</div> <!-- /.col-md-4 -->
 		</a>
 
 		<a href="<?php echo home_url(); ?>/faculty-staff">
 			<div class="col-md-4">
-				<img src="http://placehold.it/300x150" class="img-fluid">
+				<img src="http://placehold.it/600x250" class="img-fluid">
 				<h5>Faculty + Staff</h5>	
 			</div> <!-- /.col-md-4 -->
 		</a>
 
 		<a href="<?php echo home_url(); ?>/companies">
 			<div class="col-md-4">
-				<img src="http://placehold.it/300x150" class="img-fluid">
+				<img src="http://placehold.it/600x250" class="img-fluid">
 				<h5>Companies</h5>	
 			</div> <!-- /.col-md-4 -->
 		</a>		

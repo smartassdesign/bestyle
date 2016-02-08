@@ -1,3 +1,41 @@
+“Creativity takes courage.”
+–Henri Matisse
+You already know: Brooklyn is one of the world’s coolest capitals of culture.
+But did you know that you can experience most of that without ever getting on the subway?
+Downtown Brooklyn is home to more than 60 cultural organizations – most of whom are part of the Downtown Brooklyn Arts Alliance.
+And BE.IN works on getting you free or discounted access to attend performances and classes in the area.  
+BE.IN deals (valid through 2015-2016 school year)
+
+BOMB Magazine | Free digital subscription for 1 year | Click here to redeem.
+
+BRIC | $25 memberships | Purchase online here or in person with a valid student ID.
+
+Brooklyn Ballet | 20% off 16-class card, 10% off 8-class card, 10% off single class | Call (718) 246-0146 and mention the DBAA discount offer.
+
+Dancewave | $14 off adult 10-class card or 5% off your child fall/spring sub-total registration | Call (718) 522-4696 or visit in person with valid student ID.
+
+Encompass New Opera Theatre | 50% off orchestra seats | Purchase online here or call (718 636-4100) in advance to reserve seats and mention the DBAA Student program. Must present valid student ID.
+
+Issue Project Room | $25 student memberships and student rush tickets ($12-$18) for all regularly priced shows | Purchase in person with valid student ID. Rush tickets are available 30 minutes prior to showtime.
+
+Mark Morris Dance Group | $2 off any drop-in class. Must present valid student ID.
+
+MoCADA | $4 student tickets | Present valid student ID when purchasing tickets.
+
+Roulette | $15 student tickets | Purchase online or in person at the box office. Must present valid student ID. Not valid for community events, special events, or benefits.
+
+Theatre for a New Audience | $20 student tickets | Redeem at box office or online. Must present valid student ID.
+
+UrbanGlass | 10% off any class | Mention code GLASS when redeeming.
+
+
+
+
+****** OLD CONTENT *********
+
+
+
+
 <h1>Get a Little Culture in Your Life</h1>
 Did you know that Downtown Brooklyn is home to more than 60 cultural organizations? Many of them offer discounts directly to students to attend performances and classes at reduced rates.  
 

@@ -3,8 +3,17 @@
 
 
 
- <footer class="m-t-3 p-y-2">
-	<div class="container">
+ <footer class="m-t-3">
+
+	<div class="prefooter text-xs-center">
+		<a href="https://twitter.com/" target="_blank"><span class="icon-twitter"></span></a>
+		<a href="https://www.facebook.com/" target="_blank"><span class="icon-facebook"></span></a>
+		<a href="http://instagram.com/" target="_blank"><span class="icon-instagram"></span></a>
+		<a href="https://www.linkedin.com/" target="_blank"><span class="icon-linkedin"></span></a>
+		<a href="http://vimeo.com/" target="_blank"><span class="icon-vimeo"></span></a>	
+	</div> <!-- /.prefooter -->
+
+	<div class="container p-y-2">
 			<div class="row">
 				 <div class="col-sm-4 col-sm-offset-4 footer-logo">
 						<img src="<?php echo get_template_directory_uri(); ?>/assets/img/bein-logo-k-250-2x.png" class="img-fluid center-block" alt="Brooklyn Education Innovation Network ">
@@ -20,12 +29,12 @@
 
 			<div class="col-sm-6 text-xs-right footer-social"> <!-- align-kid -->
 				<div class="cutbox">
-						 <p>
+						<!--  <p>
 						<a href="https://twitter.com/" target="_blank"><span class="icon-twitter"></span></a>
 						<a href="https://www.facebook.com/" target="_blank"><span class="icon-facebook"></span></a>
 						<a href="http://instagram.com/" target="_blank"><span class="icon-instagram"></span></a>
 						<a href="https://www.linkedin.com/" target="_blank"><span class="icon-linkedin"></span></a>
-						<a href="http://vimeo.com/" target="_blank"><span class="icon-vimeo"></span></a></p>
+						<a href="http://vimeo.com/" target="_blank"><span class="icon-vimeo"></span></a></p> -->
 						 <p><a class="mailink" href="#mailingModal" data-toggle="modal" data-target="#mailingModal">Sign up for our Mailing List</a></p>
 				</div>
 				</div><!-- /.col-md-4 -->
