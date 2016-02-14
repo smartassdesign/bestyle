@@ -74,8 +74,8 @@
 
 		<div class="col-md-3 col-md-pull-9">
 
-			<p class="panel-day">April 7</p>
-			<p class="panel-time">11am</p>
+			<p>Thursday, April 7<br />
+			<span class="panel-time">11am</span></p>
 
 			<p>LIU Brooklyn <br />
 			Luntey Commons</p>
@@ -141,8 +141,9 @@
 
 
 		<div class="col-md-3 col-md-pull-9">
-			<p class="panel-day">April 7</p>
-			<p class="panel-time">1pm</p>
+
+			<p>Thursday, April 7<br />
+			<span class="panel-time">1pm</span></p>
 
 			<a href="#" class="btn btn-block btn-primary">Register</a>
 
@@ -213,8 +214,9 @@
 
 
 		<div class="col-md-3 col-md-pull-9">
-			<p class="panel-day">April 7</p>
-			<p class="panel-time">2:30pm</p>
+
+			<p>Thursday, April 7<br />
+			<span class="panel-time">2:30pm</span></p>
 
 			<a href="#" class="btn btn-block btn-primary">Register</a>
 
@@ -294,10 +296,9 @@
 
 
 		<div class="col-md-3 col-md-pull-9">
-			
-			<p class="panel-day">April 7</p>
-			<p class="panel-time">4pm</p>
 
+			<p>Thursday, April 7<br />
+			<span class="panel-time">4pm</span></p>
 
 			<a href="#" class="btn btn-block btn-primary">Register</a>
 
@@ -329,8 +330,8 @@
 
 		<div class="col-md-3 col-md-pull-9">
 
-			<p class="panel-day">April 7</p>
-			<p class="panel-time">5:30pm</p>
+			<p>Friday, April 8<br />
+			<span class="panel-time">5:30pm</span></p>
 
 			<p>Myrtle + Gold<br />
 			343 Gold Street</p>
@@ -377,8 +378,8 @@
 
 		<div class="col-md-3 col-md-pull-9">
 
-			<p class="panel-day">April 8</p>
-			<p class="panel-time">10am &mdash; 12pm</p>
+			<p>Friday, April 8<br />
+			<span class="panel-time">10am — 12pm</span></p>
 
 			<p>Multiple Locations</p>
 
@@ -449,8 +450,8 @@
 
 		<div class="col-md-3 col-md-pull-9">
 
-			<p class="panel-day">April 8</p>
-			<p class="panel-time">12pm</p>
+			<p>Friday, April 8<br />
+			<span class="panel-time">12pm</span></p>
 
 			<a href="#" class="btn btn-block btn-primary">Register</a>
 
@@ -539,8 +540,8 @@
 
 		<div class="col-md-3 col-md-pull-9">
 
-			<p class="panel-day">April 8</p>
-			<p class="panel-time">1:30pm</p>
+			<p>Friday, April 8<br />
+			<span class="panel-time">1:30pm</span></p>
 
 			<a href="#" class="btn btn-block btn-primary">Register</a>
 
@@ -617,8 +618,8 @@
 
 		<div class="col-md-3 col-md-pull-9">
 
-			<p class="panel-day">April 8</p>
-			<p class="panel-time">3pm</p>
+			<p>Friday, April 8<br />
+			<span class="panel-time">3pm</span></p>
 
 			<a href="#" class="btn btn-block btn-primary">Register</a>
 
@@ -650,8 +651,8 @@
 
 		<div class="col-md-3 col-md-pull-9">
 
-			<p class="panel-day">April 8</p>
-			<p class="panel-time">5:30pm</p>
+			<p>Friday, April 8<br />
+			<span class="panel-time">5:30pm</span></p>
 
 			<p>LIU Brooklyn<br />
 			Entrepreneurship Center</p>

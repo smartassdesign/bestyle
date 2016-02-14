@@ -6,11 +6,12 @@
  <footer class="m-t-3">
 
 	<div class="prefooter text-xs-center">
-		<a href="https://twitter.com/" target="_blank"><span class="icon-twitter"></span></a>
-		<a href="https://www.facebook.com/" target="_blank"><span class="icon-facebook"></span></a>
-		<a href="http://instagram.com/" target="_blank"><span class="icon-instagram"></span></a>
+		<span class="h4">Follow us</span>
+		<a href="https://twitter.com/BEIN_BK" target="_blank"><span class="icon-twitter"></span></a>
+		<a href="https://www.facebook.com/BEINBROOKLYN" target="_blank"><span class="icon-facebook"></span></a>
+		<a href="http://instagram.com/beinbrooklyn/" target="_blank"><span class="icon-instagram"></span></a>
 		<a href="https://www.linkedin.com/" target="_blank"><span class="icon-linkedin"></span></a>
-		<a href="http://vimeo.com/" target="_blank"><span class="icon-vimeo"></span></a>	
+		<a href="http://vimeo.com/beinbrooklyn" target="_blank"><span class="icon-vimeo"></span></a>	
 	</div> <!-- /.prefooter -->
 
 	<div class="container p-y-2">
@@ -27,7 +28,7 @@
 						<!-- <a href="mailto:esummers@downtownbrooklyn.com">esummers@downtownbrooklyn.com</a> -->
 			</div><!-- /.col-md-4 -->
 
-			<div class="col-sm-6 text-xs-right footer-social"> <!-- align-kid -->
+			<div class="col-sm-6 text-sm-right footer-social"> <!-- align-kid -->
 				<div class="cutbox">
 						<!--  <p>
 						<a href="https://twitter.com/" target="_blank"><span class="icon-twitter"></span></a>

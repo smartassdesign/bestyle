@@ -55,6 +55,11 @@ a.navbar-brand {
     height: 75px;
     margin-top: 12px;
     background-size: contain;
+	transform: scale(1);
+    transition: transform .3s;
+		&:hover {
+			transform: scale(1.07);
+		}
 
 		@include media-breakpoint-down(sm) {
 			width: 50px;
@@ -228,8 +233,30 @@ footer {
 		font-size: 2em;
 		display: inline-block;
 		margin-right: 2rem;
+		color: $blue;
+		transition: .3s all;
+		&:hover {
+			color: $white;
+		}
 		&:last-of-type {
 			margin-right: 0;
+		}
+	}
+
+
+	span.h4 {
+		font-size: 2rem;
+		line-height: 1;
+		margin-bottom: 0;
+		text-transform: uppercase;
+		letter-spacing: 1px;
+		color: #fff;
+		font-weight: 300;
+		margin-right: 30px;
+		@include media-breakpoint-down(sm) {
+			display: block;
+			margin-right: 0;
+			margin-bottom: 10px;
 		}
 	}
 }
@@ -277,6 +304,11 @@ article#be-innovative-symposium {
 
 
 
+
+
+
+
+
 /// CULTURE PAGE
 
 .coupon-box {
@@ -312,6 +344,14 @@ article h4 {
 
 
 
+h6 {
+	font-size: 14px;
+    font-weight: 700;
+    margin: 1.5em 0 .25em 0;
+    text-transform: uppercase;
+    text-decoration: underline;	
+}
+
 
 
 // HOME PAGE TESTS
@@ -321,10 +361,13 @@ article h4 {
 	.mission h1 {
 		text-transform: uppercase;
     	font-weight: 600;
+    	margin-top: 30px;
 	}
 
 	.mission h2 {
 		font-weight: 300;
+    	margin-bottom: 0;
+    	font-size: 1.55rem;
 	}
 
 	.job-box h3 {
@@ -356,10 +399,51 @@ article h4 {
 	float: left;
 	width: 	100%;
 
+	h2 {
+		font-size: 32px;
+	}
+
+	h2 + p {
+		font-size: 20px;
+		font-weight: 300;
+	}
+
+	.panel-day {
+		margin-bottom: 0;
+		text-transform: uppercase;
+	}
+
+	.panel-time {
+    	font-size: 30px;
+    	font-weight: 600;
+	}
+
+
+
 	ul.panelists li {
 		line-height: 1.2;
-		// margin-bottom: 15px;
+		position: relative;
+
+		&:before {
+			position: absolute;
+			content: "+";
+			left: -19px;
+			top: 10px;			
+		}
+	
+
+ 		a.panelbio {
+			margin-bottom: 10px;
+			display: block;
+			color: #55595c;
+			transition: .3s;
+			&:hover {
+				color: $red;
+			}
+ 		}
 	}
+
+
 }
 
 
@@ -438,5 +522,81 @@ article h4 {
 }
 
 
+
+// HOMEPAGE SLIDER
+
+.rsContent h3 {
+    color: #fff;
+    font-size: 3.25rem;
+    text-shadow: rgba(0, 0, 0, 0.8) 2px 2px 5px;
+}
+
+
+
+
+
+
+
+// NAV TABS THINGS
+
+
+.nav-tabs .nav-link.active, .nav-tabs .nav-link.active:focus, .nav-tabs .nav-link.active:hover {
+	color: #55595c;
+	opacity: 1;
+}
+
+
+.nav-tabs .nav-link {
+	color: #55595c;
+	font-weight: 600;
+	opacity: .7;
+}
+
+
+// .nav-tabs li {
+// 	float: left;
+
+// 	a {
+
+// 		background: transparent;
+// 		color: $red;
+// 		padding: 6px 10px;
+
+// 		&.active {
+// 	    	background: $red;
+// 			color: $white;
+// 		}
+// 	}
+// }
+
+
+
+
+
+// EVENTS CALENDAR STYLING
+
+// DISABLE events bar for now
+
+div#tribe-events-bar {
+    display: none;
+}
+
+div#tribe-events {
+	margin-top: 60px;
+}
+
+.tribe-events-page-title, #tribe-events-header {
+	display: none;
+}
+
+.tribe-events-list-separator-month:first-of-type {
+	display: none;
+}
+
+
+.tribe-events-list-separator-month {
+	background: transparent;
+	padding: 0;
+}
 
 

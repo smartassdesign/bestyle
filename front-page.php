@@ -3,7 +3,7 @@
 <div class="container">
 	<div class="row">
 		<div class="col-md-10 col-md-offset-1">
-			<div class="mission m-y-3 text-md-center">
+			<div class="mission p-t-1 text-md-center">
 				<h1>Downtown Brooklyn is a College Town and a Center for Innovation.</h1>
 				<h2>The Brooklyn Education Innovation Network (BE.IN) serves as a local talent pipeline connecting students to industry and community through internships, jobs, events, and programming.</h2>
 			</div> <!-- /.mission -->
@@ -22,10 +22,8 @@ $posts_without_thumbnails = array_filter($posts,  function($post){
   return ( wp_get_attachment_thumb_url( $post_thumbnail_id ) == "");
 } ); ?>
 
-	<div class="m-b-3">
-	<?php echo do_shortcode('[new_royalslider id="1"]')  ?>
+	<?php echo do_shortcode('[new_royalslider id="2"]')  ?>
 		<?php /*echo get_the_post_thumbnail( $post->ID, 'full', array( 'class' => 'img-fluid img-featured' ) ); */ ?>
-	</div>
 
 <div class="container">
 
@@ -40,21 +38,21 @@ $posts_without_thumbnails = array_filter($posts,  function($post){
 		
 		<a href="<?php echo home_url(); ?>/students-alumni">
 			<div class="col-md-4">
-				<img src="http://placehold.it/600x250" class="img-fluid">
+				<img src="<?php echo home_url(); ?>/wp-content/themes/bestyle/assets/img/bein-students-thumb.jpg" class="img-fluid">
 				<h5>Students + Alumni</h5>	
 			</div> <!-- /.col-md-4 -->
 		</a>
 
 		<a href="<?php echo home_url(); ?>/faculty-staff">
 			<div class="col-md-4">
-				<img src="http://placehold.it/600x250" class="img-fluid">
+				<img src="<?php echo home_url(); ?>/wp-content/themes/bestyle/assets/img/bein-faculties-thumb.jpg" class="img-fluid">
 				<h5>Faculty + Staff</h5>	
 			</div> <!-- /.col-md-4 -->
 		</a>
 
 		<a href="<?php echo home_url(); ?>/companies">
 			<div class="col-md-4">
-				<img src="http://placehold.it/600x250" class="img-fluid">
+				<img src="<?php echo home_url(); ?>/wp-content/themes/bestyle/assets/img/bein-companies-thumb.jpg" class="img-fluid">
 				<h5>Companies</h5>	
 			</div> <!-- /.col-md-4 -->
 		</a>		

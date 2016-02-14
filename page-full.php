@@ -6,21 +6,10 @@
 
 <?php get_header(); the_post(); ?>
 
-<?php //get all the posts however your query does it. simple example when there aren't a lot:
-$args = array("nopaging" => true);
-$posts = (new WP_Query($args))->posts;
 
-//filter the posts array by looking up the thumb_url and seeing if it's empty
-$posts_without_thumbnails = array_filter($posts,  function($post){
-  $post_thumbnail_id = get_post_thumbnail_id( $post->ID );
-  return ( wp_get_attachment_thumb_url( $post_thumbnail_id ) == "");
-} ); ?>
-
-<?php if ( has_post_thumbnail() ) : ?>
-	<div class="m-b-3">
-		<?php echo get_the_post_thumbnail( $post->ID, 'full', array( 'class' => 'img-fluid img-featured' ) ); ?>
-	</div>
-  <?php endif; ?>
+<?php if( tribe_is_past() || tribe_is_upcoming() && !is_tax() ) { ?>
+<?php echo do_shortcode('[new_royalslider id="1"]')  ?>
+<?php } ?>
 
 <div class="container">
 

@@ -126,3 +126,12 @@ function get_post_top_ancestor_id(){
 
 
 register_new_royalslider_files(1); 
+
+
+
+
+/// TESTING? DISABLE AUTO P???
+
+
+remove_filter('the_content', 'wpautop');
+
