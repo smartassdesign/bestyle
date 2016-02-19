@@ -417,8 +417,8 @@ $nav-tabs-justified-link-border-color:            #ddd !default;
 $nav-tabs-justified-active-link-border-color:     $body-bg !default;
 
 $nav-pills-border-radius:                   $border-radius !default;
-$nav-pills-active-link-hover-bg:            $component-active-bg !default;
-$nav-pills-active-link-hover-color:         $component-active-color !default;
+$nav-pills-active-link-hover-bg:            transparent; // $component-active-bg !default;
+$nav-pills-active-link-hover-color:         $blue; //$component-active-color !default;
 
 
 // Pagination

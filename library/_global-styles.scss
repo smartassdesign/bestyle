@@ -392,7 +392,15 @@ h6 {
 
 // SYMPOSIUM PAGE
 
-.page-symposium .event {
+.page-symposium {
+
+	p.lede {
+    	font-size: 24px;
+    	font-weight: 300;
+    	text-align: center;
+   }
+
+	.event {
 	border-bottom: 1px solid #ddd;
 	margin-bottom: 30px;
 	padding-bottom: 30px;
@@ -424,11 +432,21 @@ h6 {
 		line-height: 1.2;
 		position: relative;
 
-		&:before {
-			position: absolute;
-			content: "+";
-			left: -19px;
-			top: 10px;			
+		&:hover {
+
+			&:before {
+				position: absolute;
+				content: "+";
+				left: -19px;
+				top: 10px;			
+			}
+		}
+
+		.p-thumb {
+			float: left;
+    		height: 50px;
+    		width: 50px;
+    		margin-right: 10px;
 		}
 	
 
@@ -443,10 +461,50 @@ h6 {
  		}
 	}
 
+}
 
 }
 
 
+
+
+
+// SYMPO TABS
+
+.ttu-highlight-videos {
+
+	.nav-center {  
+	  text-align: center;
+	  ul.nav {
+	    display: inline-block;
+	    li {
+	      display: inline
+	      a {
+	        float: left
+	      }
+	    }
+	  }
+	}
+
+
+	.nav-pills .nav-link.active, .nav-pills .nav-link.active:focus, .nav-pills .nav-link.active:hover, .nav-pills .nav-item.open .nav-link, .nav-pills .nav-item.open .nav-link:focus, .nav-pills .nav-item.open .nav-link:hover {
+		background-color: transparent;
+		color: $red;
+	}
+
+	.nav-pills .nav-link {
+		color: $gray-light;
+		text-transform: uppercase;
+		font-size: 15px;
+		letter-spacing: 1px;
+		font-weight: 700;
+
+		&:hover {
+			color: $blue;
+		}
+	}
+
+}
 
 
 
@@ -598,5 +656,21 @@ div#tribe-events {
 	background: transparent;
 	padding: 0;
 }
+
+
+
+
+
+// PAGE CONTENT 
+
+
+// COMPANIES PAGE
+
+#partner-with-faculty .btn:first-child {
+    margin-right: 20px;
+}
+
+
+
 
 
