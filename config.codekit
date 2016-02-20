@@ -77,6 +77,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/BEINnovative-Symposium-Sponsor-Logos.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 90635,
+		"inputAbbreviatedPath": "\/assets\/img\/BEINnovative-Symposium-Sponsor-Logos.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/BEINnovative-Symposium-Sponsor-Logos.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/hs-askin.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -106,6 +117,17 @@
 		"initialSize": 9405,
 		"inputAbbreviatedPath": "\/assets\/img\/hs-cantu.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/hs-cantu.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/hs-coghlan.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10338,
+		"inputAbbreviatedPath": "\/assets\/img\/hs-coghlan.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/hs-coghlan.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -187,6 +209,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/hs-johnson.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14454,
+		"inputAbbreviatedPath": "\/assets\/img\/hs-johnson.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/hs-johnson.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/hs-kuyan.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -194,6 +227,39 @@
 		"initialSize": 9851,
 		"inputAbbreviatedPath": "\/assets\/img\/hs-kuyan.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/hs-kuyan.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/hs-lopez.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9814,
+		"inputAbbreviatedPath": "\/assets\/img\/hs-lopez.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/hs-lopez.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/hs-martin.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9986,
+		"inputAbbreviatedPath": "\/assets\/img\/hs-martin.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/hs-martin.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/hs-mcintyre.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11655,
+		"inputAbbreviatedPath": "\/assets\/img\/hs-mcintyre.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/hs-mcintyre.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -231,6 +297,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/hs-petterson.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10291,
+		"inputAbbreviatedPath": "\/assets\/img\/hs-petterson.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/hs-petterson.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/hs-rogoff.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -238,6 +315,17 @@
 		"initialSize": 10052,
 		"inputAbbreviatedPath": "\/assets\/img\/hs-rogoff.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/hs-rogoff.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/hs-russo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9568,
+		"inputAbbreviatedPath": "\/assets\/img\/hs-russo.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/hs-russo.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -264,6 +352,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/hs-southern.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9929,
+		"inputAbbreviatedPath": "\/assets\/img\/hs-southern.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/hs-southern.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/hs-stempeck.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -271,6 +370,17 @@
 		"initialSize": 10144,
 		"inputAbbreviatedPath": "\/assets\/img\/hs-stempeck.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/hs-stempeck.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/hs-wink.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9579,
+		"inputAbbreviatedPath": "\/assets\/img\/hs-wink.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/hs-wink.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

@@ -32,15 +32,15 @@ $gray-light:                #818a91 !default;
 $gray-lighter:              #eceeef !default;
 $gray-lightest:             #f1f1f1; //#f7f7f9 !default;
 
-$brand-primary:             #fa0d1c; // #337ab7
+$brand-primary:             #00b2d9; // #337ab7
 $brand-success:             #5cb85c !default;
 $brand-info:                #5bc0de !default;
 $brand-warning:             #f0ad4e !default;
 $brand-danger:              #d9534f !default;
 
+$blue: $brand-primary;
 
-
-$red:         $brand-primary;
+$red:           #fa0d1c;
 $orange:        #f7941e;
 $blue:          #00b2d9;
 $yellow:        #ffd316;

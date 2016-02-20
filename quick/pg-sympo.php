@@ -73,7 +73,7 @@
 
 						<p>Jesse is also an active angel investor and advisor to many early stage technology startups including Benny, Camelot Metrics, fitmob (acquired by ClassPass), inDinero, Jackpocket, Rukkus, Squīr, Symple, Thunderclap and YourTrove (acquired by LiveNation).</p>
 					</div> <!-- /.collapse -->
-				</li>
+				</li> 
 
 				<li><a href="#bio-padilla" class="panelbio" data-toggle="collapse">
 				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-padilla.jpg" class="img-fluid p-thumb">
@@ -89,7 +89,7 @@
 				</li>
 
 				<li><a href="#bio-southern" class="panelbio" data-toggle="collapse">
-				<img src="http://placehold.it/100x100" class="img-fluid p-thumb">	
+				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-southern.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Ted Southern</strong><br />
 				<span class="p-title">President, Final Frontier Design</span></p></a>
 					<div class="collapse" id="bio-southern">
@@ -99,7 +99,7 @@
 
 
 				<li><a href="#bio-wink" class="panelbio" data-toggle="collapse">
-				<img src="http://placehold.it/100x100" class="img-fluid p-thumb">
+				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-wink.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Christopher Wink</strong><br />
 				<span class="p-title">Co-Founder and Editorial Director, Technical.ly</span></p></a>
 					<div class="collapse" id="bio-wink">
@@ -151,7 +151,7 @@
 			<ul class="panelists list-unstyled">
 
 				<li><a href="#bio-martin" class="panelbio" data-toggle="collapse">
-				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-XXX.jpg" class="img-fluid p-thumb">
+				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-martin.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>DJ Martin</strong><br />
 				<span class="p-title">Founder, Astia Angels</span></p></a>
 					<div class="collapse" id="bio-martin">
@@ -830,6 +830,6 @@
 </div> <!-- /.row -->
 
 
-
+<img src="<?php bloginfo('template_directory'); ?>/assets/img/BEINnovative-Symposium-Sponsor-Logos.jpg" class="img-fluid">
 
 
