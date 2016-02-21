@@ -8,7 +8,16 @@
 
 
 <?php if( tribe_is_past() || tribe_is_upcoming() && !is_tax() ) { ?>
-<?php echo do_shortcode('[new_royalslider id="1"]')  ?>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-10 col-md-offset-1">
+				<a href="/symposium"><img class="img-fluid" src="/wp-content/themes/bestyle/assets/img/BEINnovative-Symposium-banner.png"></a>
+			</div> <!-- /.col-md-10 -->	
+		</div> <!-- /.row -->	
+	</div> <!-- /.container -->	
+
+	<hr class="m-y-2">	
+<?php /* echo do_shortcode('[new_royalslider id="1"]')  */ ?>
 <?php } ?>
 
 <div class="container">

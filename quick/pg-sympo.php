@@ -78,7 +78,7 @@
 				<li><a href="#bio-padilla" class="panelbio" data-toggle="collapse">
 				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-padilla.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Elisa Padilla</strong><br />
-				<span class="p-title">SVP and Chief Marketing Officer, Barclays Center | Brooklyn Nets | New York Islanders</span></p></a>
+				<span class="p-title">Senior Vice President & Chief Marketing Officer, Brooklyn Sports &amp; Entertainment</span></p></a>
 					<div class="collapse" id="bio-padilla">
 						<p>As Senior Vice President & Chief Marketing Officer for the Brooklyn Nets and Barclays Center, Elisa Padilla oversees all of the marketing efforts for the team and arena, including branding, advertising, merchandising, database research, creative, websites, and social media.</p>
 
@@ -242,7 +242,7 @@
 				<li><a href="#bio-calhoon" class="panelbio" data-toggle="collapse">
 				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-calhoon.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Hannah Calhoon</strong><br />
-				<span class="p-title">Director, The GovLab Academy, GovLab</span></p></a>
+				<span class="p-title">Director, Blue Ridge Labs@Robin Hood</span></p></a>
 					<div class="collapse" id="bio-calhoon">
 						<p>Hannah Calhoon is the founder and Director of Blue Ridge Labs @ Robin Hood, an initiative of the Robin Hood Foundation that supports innovators who are developing digital tools &amp; platforms to help New Yorkers build better lives for themselves and their families. As Director, she leads the design and implementation of the Labs’ fellowship and incubation programs, serves as an advisor to program participants, and oversees program operations. Before starting the Labs, Hannah worked in the Boston Consulting Group’s Global Public Health & Development practice, at Acumen on domestic impact investing strategy, and at Embrace Global, a social enterprise based in Bangalore, India.</p>
 					</div> <!-- /.collapse -->

@@ -10,7 +10,7 @@
 		<a href="https://twitter.com/BEIN_BK" target="_blank"><span class="icon-twitter"></span></a>
 		<a href="https://www.facebook.com/BEINBROOKLYN" target="_blank"><span class="icon-facebook"></span></a>
 		<a href="http://instagram.com/beinbrooklyn/" target="_blank"><span class="icon-instagram"></span></a>
-		<a href="https://www.linkedin.com/" target="_blank"><span class="icon-linkedin"></span></a>
+		<a href="https://www.linkedin.com/company/brooklyn-education-innovation-network-be.in-?trk=company_logo" target="_blank"><span class="icon-linkedin"></span></a>
 		<a href="http://vimeo.com/beinbrooklyn" target="_blank"><span class="icon-vimeo"></span></a>	
 	</div> <!-- /.prefooter -->
 
@@ -66,7 +66,14 @@ jQuery(document).ready(function($){
 </script>
 
 
-
+<script type="text/javascript">
+jQuery(document).ready(function($){
+    if(location.hash != null && location.hash != ""){
+        $('.collapse').removeClass('in');
+        $(location.hash + '.collapse').collapse('show');
+    }
+});
+</script>
 
 
 <script>

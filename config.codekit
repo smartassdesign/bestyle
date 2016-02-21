@@ -407,6 +407,83 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/logo-brooklyn-navy-yard-k.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13464,
+		"inputAbbreviatedPath": "\/assets\/img\/logo-brooklyn-navy-yard-k.png",
+		"outputAbbreviatedPath": "\/assets\/img\/logo-brooklyn-navy-yard-k.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/logo-city-tech-k.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24359,
+		"inputAbbreviatedPath": "\/assets\/img\/logo-city-tech-k.png",
+		"outputAbbreviatedPath": "\/assets\/img\/logo-city-tech-k.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/logo-downtown-brooklyn-k.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12957,
+		"inputAbbreviatedPath": "\/assets\/img\/logo-downtown-brooklyn-k.png",
+		"outputAbbreviatedPath": "\/assets\/img\/logo-downtown-brooklyn-k.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/logo-dumbo-k.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22757,
+		"inputAbbreviatedPath": "\/assets\/img\/logo-dumbo-k.png",
+		"outputAbbreviatedPath": "\/assets\/img\/logo-dumbo-k.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/logo-nyc-tech-talent-pipeline-k.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7103,
+		"inputAbbreviatedPath": "\/assets\/img\/logo-nyc-tech-talent-pipeline-k.png",
+		"outputAbbreviatedPath": "\/assets\/img\/logo-nyc-tech-talent-pipeline-k.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/logo-tech-triangle-k-400.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12039,
+		"inputAbbreviatedPath": "\/assets\/img\/logo-tech-triangle-k-400.png",
+		"outputAbbreviatedPath": "\/assets\/img\/logo-tech-triangle-k-400.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/logo-tech-triangle-k.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11423,
+		"inputAbbreviatedPath": "\/assets\/img\/logo-tech-triangle-k.png",
+		"outputAbbreviatedPath": "\/assets\/img\/logo-tech-triangle-k.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/js\/app-min.js": {
 		"fileType": 64,
 		"ignore": 1,
@@ -1983,6 +2060,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/stored-content\/bttip.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/stored-content\/bttip.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/stored-content\/companies-partner.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -2015,6 +2101,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/stored-content\/faculty-partnerships.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/stored-content\/faculty-resources.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/stored-content\/faculty-resources.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0

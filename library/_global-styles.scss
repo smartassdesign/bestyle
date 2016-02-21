@@ -636,7 +636,11 @@ h6 {
 // DISABLE events bar for now
 
 div#tribe-events-bar {
-    display: none;
+    // display: none;
+}
+
+#tribe-bar-views {
+	display: none;
 }
 
 div#tribe-events {
@@ -657,7 +661,21 @@ div#tribe-events {
 	padding: 0;
 }
 
+.tribe-bar-disabled #tribe-bar-form #tribe-bar-views+.tribe-bar-filters {
+	left: auto;
+	right: auto;
+	width: auto;
+}
 
+#tribe-bar-form {
+	background: transparent;
+}
+
+
+.tribe-events-filters-content {
+	background: transparent!important;
+	border: 0!important;
+}
 
 
 
@@ -721,6 +739,25 @@ div#tribe-events {
 
 
 
+// BTT LOGOS 
+
+.btt-logo {
+	transition: all .2s;
+	display: block;
+	&:hover {
+		opacity: .6;
+	}
+}
+
+
+
+// FOR INTERNSHIP PAGE
+
+.page-internships .btt-logo img {
+    max-height: 125px;
+    width: auto;
+    margin: 0 auto;
+}
 
 
 
