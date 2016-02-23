@@ -55,6 +55,15 @@
 			<p>A discussion featuring key innovators of major companies in the Brooklyn Tech Triangle.</p>
 
 			<ul class="panelists list-unstyled">
+				<li><a href="#bio-burnett" class="panelbio" data-toggle="collapse">
+				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-burnett.jpg" class="img-fluid p-thumb">
+				<p class="p-listing"><strong>Matthew Burnett</strong><br />
+				<span class="p-title">Co-Founder and CEO, Maker’s Row</span></p></a>
+					<div class="collapse" id="bio-burnett">
+						<p>Matthew Burnett is the CEO and Co-Founder of Maker’s Row, an online marketplace for American manufacturers with a network of over 9,500 manufacturers and 90,000 brands creating products in the USA. Matthew, a Detroit native, received a BFA in industrial design from Pratt Institute. His early career began as a timepiece designer for Marc Jacobs, Diesel, and DKNY. Before Maker’s Row, Matthew has founded a watch company and leather goods line (The Brooklyn Bakery) which exposed him to the firsthand benefits of manufacturing domestically in order to maintain control over the quality of production and form closer relationships with suppliers and contractors. In 2011 Burnett partnered with Tanya Menendez on The Brooklyn Bakery to manage sales and operations. From this collaboration, with Burnett’s background in manufacturing and Menendez’s experience with operations, they began to develop the blueprint for what is today, Maker’s Row.</p>
+					</div> <!-- /.collapse -->
+				</li>
+
 				<li><a href="#bio-menendez" class="panelbio" data-toggle="collapse">
 				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-menendez.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Tanya Menendez</strong><br />
@@ -69,7 +78,7 @@
 				<p class="p-listing"><strong>Jesse Middleton</strong><br />
 				<span class="p-title">Co-Founder, WeWork Labs</span></p></a>
 					<div class="collapse" id="bio-middleton">
-						<p>Jesse Middleton is the VP of Product Innovation at WeWork and co-founded WeWork Labs, WeWork's global startup incubator. Prior to WeWork, Jesse was the co-founder and CEO of Backstory, a venture backed startup, where he led product and business development. He was a mentor and advisor at Blueprint Health and High Peaks Venture Partners. Jesse began his career working across the United States, the United Kingdom, Mexico, Israel and China as a network security engineer and eventually worked his way up to New York City where he became the head of information technology at LivePerson, a publicly traded technology company (NASDAQ:LPSN).</p>
+						<p>Jesse Middleton is the Head of WeWork X at WeWork and co-founded WeWork Labs, WeWork's global startup incubator. Prior to WeWork, Jesse was the co-founder and CEO of Backstory, a venture backed startup, where he led product and business development. He was a mentor and advisor at Blueprint Health and High Peaks Venture Partners. Jesse began his career working across the United States, the United Kingdom, Mexico, Israel and China as a network security engineer and eventually worked his way up to New York City where he became the head of information technology at LivePerson, a publicly traded technology company (NASDAQ:LPSN).</p>
 
 						<p>Jesse is also an active angel investor and advisor to many early stage technology startups including Benny, Camelot Metrics, fitmob (acquired by ClassPass), inDinero, Jackpocket, Rukkus, Squīr, Symple, Thunderclap and YourTrove (acquired by LiveNation).</p>
 					</div> <!-- /.collapse -->
@@ -100,7 +109,7 @@
 
 				<li><a href="#bio-wink" class="panelbio" data-toggle="collapse">
 				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-wink.jpg" class="img-fluid p-thumb">
-				<p class="p-listing"><strong>Christopher Wink</strong><br />
+				<p class="p-listing"><strong>Moderator: Christopher Wink</strong><br />
 				<span class="p-title">Co-Founder and Editorial Director, Technical.ly</span></p></a>
 					<div class="collapse" id="bio-wink">
 						<p>Christopher Wink is the cofounder and Editorial Director of local tech news and events network Technical.ly. He has reported on Brooklyn and other emerging entrepreneurship communities for the last seven years. Previously, he worked for a homeless advocacy nonprofit and was a freelance reporter. He writes frequently about media and entrepreneurship on his personal blog at christopherwink.com, tweets @christopherwink and rides his bicycle a lot.</p>
@@ -324,7 +333,7 @@
 		<div class="col-md-9 col-md-push-3">
 
 			<h2>Inclusive Innovation: Communities empowering themselves through technology</h2>
-			<p>Come hear from this diverse panel how communities are using technology to help level the playing field in the working world. We have a documentary filmmaker with MS, an instructor in a program that teaches entrepreneurship to veterans, and a professor tackling digital skills gaps in New York City.</p>
+			<p>Come hear from this diverse panel how communities are using technology to help level the playing field in the working world. We have a documentary filmmaker with MS, an instructor in a program that teaches entrepreneurship to veterans, and a professor tackling Disabilities Studies by teaming up students and members of the community to create person-centered stories.</p>
 
 			<ul class="panelists list-unstyled">
 
@@ -352,7 +361,7 @@
 				<li><a href="#bio-goldstein" class="panelbio" data-toggle="collapse">
 				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-goldstein.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Allan Goldstein</strong><br />
-				<span class="p-title">Lecturer, NYU Tandon School of Engineering</span></p></a>
+				<span class="p-title">Senior Lecturer, NYU Tandon School of Engineering</span></p></a>
 					<div class="collapse" id="bio-goldstein">
 						<p>Allan B. Goldstein, NYU Tandon School of Engineering Senior Lecturer, teams student innovators, inventors and entrepreneurs with disabled community members to create digital stories that make society care and remember. Being a sibling of a survivor of the notorious Willowbrook State School for the Mentally Retarded, his personal experience writing explores the social barriers impeding an inclusive society. Goldstein is on the screening committee of the Sprout Film Festival, which features films by and about people with intellectual and developmental disabilities.</p>
 					</div> <!-- /.collapse -->
@@ -507,10 +516,11 @@
 
 				<li><a href="#bio-jeltema" class="panelbio" data-toggle="collapse">
 				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-jeltema.jpg" class="img-fluid p-thumb">
-				<p class="p-listing"><strong>John M. Jeltema</strong><br />
-				<span class="p-title">Executive Director, Alternative Fund Services Product Development, JPMorgan Chase</span></p></a>
+				<p class="p-listing"><strong>John Jeltema</strong><br />
+				<span class="p-title">Executive Director, JPMorgan Corporate and Investment Bank
+Global Fund Services Product Development</span></p></a>
 					<div class="collapse" id="bio-jeltema">
-						<p>BIO</p>
+						<p>John Jeltema is a currently the Global Middle Office Product Development lead responsible for the design and implementation of the Global Middle Office Product.  Prior to his current role he was the senior member responsible for the day to day middle office oversight of the trade capture/OTC/fixed income/bank loan and cash management teams.  John has over 17 years of experience in investment and middle office operations.  John joined Paloma Partners in 1998.  In March 2006, J.P. Morgan acquired the middle/back office/accounting and technology platform from Paloma, creating J.P. Morgan Hedge Fund Services. John completed his degree at Western Connecticut State in economics.</p>
 					</div> <!-- /.collapse -->
 				</li>		
 
@@ -733,12 +743,12 @@
 
 
 
-				<li><a href="#bio-rashidian" class="panelbio" data-toggle="collapse">
-				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-rashidian.jpg" class="img-fluid p-thumb">
-				<p class="p-listing"><strong>Nushin Rashidian</strong><br />
+				<li><a href="#bio-martin" class="panelbio" data-toggle="collapse">
+				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-martin.jpg" class="img-fluid p-thumb">
+				<p class="p-listing"><strong>Alyson Martin</strong><br />
 				<span class="p-title">Co-Founder, Cannabis Wire</span></p></a>
-					<div class="collapse" id="bio-rashidian">
-						<p>BIO RASHIDIAN.</p>
+					<div class="collapse" id="bio-martin">
+						<p>BIO MARTIN.</p>
 					</div> <!-- /.collapse -->
 				</li>		
 
@@ -758,9 +768,9 @@
 				<li><a href="#bio-soto" class="panelbio" data-toggle="collapse">
 				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-soto.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Jeff Soto</strong><br />
-				<span class="p-title">Founder, TENDIGI</span></p></a>
+				<span class="p-title">Founder and CEO, Tendigi</span></p></a>
 					<div class="collapse" id="bio-soto">
-						<p>BIO SOTO.</p>
+						<p>Jeff Soto is the Founder and CEO at Tendigi, a mobile design and development firm based in Brooklyn, NY. As CEO, Soto manages both technical, creative, and clients teams and oversees all company ventures. Before starting Tendigi in 2010, Soto held a position at Apple Inc. as a Quality Assurance Engineer where he led testing on numerous Apple software and hardware products.</p>
 					</div> <!-- /.collapse -->
 				</li>		
 

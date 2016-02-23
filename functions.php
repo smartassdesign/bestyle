@@ -135,3 +135,59 @@ register_new_royalslider_files(1);
 
 remove_filter('the_content', 'wpautop');
 
+
+
+
+
+
+
+
+
+// LOSE ADMIN BAR FOR ALL EXCEPT ADMINS //
+
+add_action('after_setup_theme', 'remove_admin_bar');
+
+function remove_admin_bar() {
+if (!current_user_can('administrator') && !is_admin()) {
+  show_admin_bar(false);
+}
+}
+
+
+function disable_dashboard_widgets() {  
+  
+    remove_meta_box('dashboard_right_now', 'dashboard', 'core');  
+    remove_meta_box('wpe_dify_news_feed', 'dashboard', 'core');  
+    remove_meta_box('dashboard_incoming_links', 'dashboard', 'core');  
+    remove_meta_box('dashboard_plugins', 'dashboard', 'core');  
+    remove_meta_box('dashboard_quick_press', 'dashboard', 'core');  
+}  
+add_action('wp_dashboard_setup', 'disable_dashboard_widgets');
+
+
+
+/*
+* Remove "News from Modern Tribe" widget from dashboard
+*/
+function remove_tribe_dashboard_widget() {
+remove_meta_box('tribe_dashboard_widget', 'dashboard', 'normal');
+}
+add_action('wp_dashboard_setup', 'remove_tribe_dashboard_widget');
+
+
+
+
+
+// ADD WHITE LABELING TO ADMIN
+
+// Custom WordPress Admin Color Scheme
+
+// function admin_css() {
+
+// wp_enqueue_style( 'admin_css', get_template_directory_uri() . '/library/css/admin.css' );
+// wp_enqueue_style( 'admin_font_css', get_template_directory_uri() . '/library/css/fonts.css' );
+// }
+
+// add_action('admin_print_styles', 'admin_css' );
+
+

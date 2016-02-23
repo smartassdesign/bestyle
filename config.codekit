@@ -81,7 +81,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 90635,
+		"initialSize": 94083,
 		"inputAbbreviatedPath": "\/assets\/img\/BEINnovative-Symposium-Sponsor-Logos.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/BEINnovative-Symposium-Sponsor-Logos.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -95,6 +95,17 @@
 		"initialSize": 9809,
 		"inputAbbreviatedPath": "\/assets\/img\/hs-askin.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/hs-askin.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/hs-burnett.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9607,
+		"inputAbbreviatedPath": "\/assets\/img\/hs-burnett.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/hs-burnett.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -348,6 +359,17 @@
 		"initialSize": 11480,
 		"inputAbbreviatedPath": "\/assets\/img\/hs-schroeder.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/hs-schroeder.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/hs-soto.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7017,
+		"inputAbbreviatedPath": "\/assets\/img\/hs-soto.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/hs-soto.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
