@@ -262,10 +262,10 @@
 
 				<li><a href="#bio-cantu" class="panelbio" data-toggle="collapse">
 				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-cantu.jpg" class="img-fluid p-thumb">
-				<p class="p-listing"><strong>Dinorah Cantu</strong><br />
+				<p class="p-listing"><strong>Dinorah Cantú-Pedraza</strong><br />
 				<span class="p-title"> Director, The GovLab Academy, GovLab</span></p></a>
 					<div class="collapse" id="bio-cantu">
-						<p>Dinorah Cantu coordinates the <a href="http://govlabacademy.org/" target="_blank">GovLab Academy</a>, a Knight-Foundation funded online institute aimed at helping government and social innovators take innovative projects from idea to implementation. Under her direction, the Academy has worked with over five hundred innovators from more than 30 countries online and off over the last two years. Thousands more have watched its skill-building videos. She has put together over 12 <a href="http://govlabacademy.org/coaching-programs.html" target="_blank">Coaching Programs</a>, the Academy’s signature mentoring and peer to peer learning initiative, where over 95% of whose participants complete the program.</p>
+						<p>Dinorah Cantú-Pedraza coordinates the <a href="http://govlabacademy.org/" target="_blank">GovLab Academy</a>, a Knight-Foundation funded online institute aimed at helping government and social innovators take innovative projects from idea to implementation. Under her direction, the Academy has worked with over five hundred innovators from more than 30 countries online and off over the last two years. Thousands more have watched its skill-building videos. She has put together over 12 <a href="http://govlabacademy.org/coaching-programs.html" target="_blank">Coaching Programs</a>, the Academy’s signature mentoring and peer to peer learning initiative, where over 95% of whose participants complete the program.</p>
 
 						<p>The Academy is a project of the <a href="http://www.thegovlab.org/" target="_blank">Governance Lab</a>, based at New York University. GovLab focuses on the use of technology to improve how we govern. Dinorah has also designed the GovLab’s <a href="http://crowdsourcingadvisor.org/" target="_blank">Crowdsorcerer</a> expert system, a software tool to deliver customized case studies to government leaders about open innovation. Working together with lawyers and education experts from NYU, she also designed an expert system to help universities determine the legal requirements for offering online education. She also runs the GovLab’s <a href="http://thegovlab.org/category/democracy-demos/" target="_blank">Demos for Democracy</a> video series where she interviews leading technologists about new platforms to advance the public interest.</p>
 					</div> <!-- /.collapse -->
@@ -384,7 +384,7 @@
 				<li><a href="#bio-russo" class="panelbio" data-toggle="collapse">
 				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-russo.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Moderator: Paul Russo</strong><br />
-				<span class="p-title">Assistant Vice President for Instructional Innovation, LIU Brooklyn</span></p></a>
+				<span class="p-title">Current Vice Provost &amp; Dean, YU School of Graduate and Professional Studies</span></p></a>
 					<div class="collapse" id="bio-russo">
 						<p>Dr. Paul Russo is Vice Provost at Yeshiva University and Dean for Yeshiva University’s School for Graduate and Professional Studies. He is also a member of the faculty at NYU Tandon School of Engineering, Department of Technology Management. Before joining Yeshiva, Dr. Russo held positions as Assistant Vice President for Curriculum and Instruction at Long Island University and Director of Online Programs at The City University of New York (CUNY).</p>
 
@@ -747,7 +747,7 @@ Global Fund Services Product Development</span></p></a>
 
 
 				<li><a href="#bio-martin" class="panelbio" data-toggle="collapse">
-				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-martin.jpg" class="img-fluid p-thumb">
+				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-martin-2.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Alyson Martin</strong><br />
 				<span class="p-title">Co-Founder, Cannabis Wire</span></p></a>
 					<div class="collapse" id="bio-martin">
