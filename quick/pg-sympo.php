@@ -746,16 +746,14 @@ Global Fund Services Product Development</span></p></a>
 
 
 
-				<li><a href="#bio-martin" class="panelbio" data-toggle="collapse">
-				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-martin-2.jpg" class="img-fluid p-thumb">
+				<li><a href="#bio-a-martin" class="panelbio" data-toggle="collapse">
+				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-a-martin.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Alyson Martin</strong><br />
 				<span class="p-title">Co-Founder, Cannabis Wire</span></p></a>
-					<div class="collapse" id="bio-martin">
-						<p>BIO MARTIN.</p>
+					<div class="collapse" id="bio-a-martin">
+						<p>Award-winning journalist, Alyson Martin, is the co-founder of <a href="http://cannabiswire.com" target="_blank">Cannabis Wire</a>, a startup news organization that covers the end of a prohibition and the birth of a billion dollar industry. Cannabis Wire has received support from the <a href="http://brown.columbia.edu/" target="_blank">Brown Institute for Media Innovation</a> (a collaboration between Columbia Journalism School and Stanford School of Engineering) and <a href="http://nymediacenter.com/2015/11/congratulations-to-the-made-in-ny-grantees-and-fellows/" target="_blank">NYC's Mayor's Office of Media &amp; Entertainment</a>. Martin also co-authored the book, <em><a href="http://www.amazon.com/New-Leaf-The-Cannabis-Prohibition/dp/1595589201" target="_blank">A New Leaf: The End of Cannabis Prohibition</a></em>, which was published by The New Press in 2014. Martin is an alumna of the Columbia University Graduate School of Journalism and The College of Saint Rose. She is a lifelong Yankees fan.</p>
 					</div> <!-- /.collapse -->
 				</li>		
-
-
 
 				<li><a href="#bio-site" class="panelbio" data-toggle="collapse">
 				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-site.jpg" class="img-fluid p-thumb">

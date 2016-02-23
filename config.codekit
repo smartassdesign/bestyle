@@ -88,6 +88,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/hs-a-martin.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13648,
+		"inputAbbreviatedPath": "\/assets\/img\/hs-a-martin.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/hs-a-martin.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/hs-askin.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
