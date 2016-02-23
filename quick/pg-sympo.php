@@ -26,13 +26,16 @@
   <!-- Tab panes -->
   <div class="tab-content">
     <div role="tabpanel" class="tab-pane active" id="ttu-one">
-		<iframe src="https://player.vimeo.com/video/123622178?color=00b2d9" width="950" height="534" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    	<div class="embed-responsive embed-responsive-16by9">
+			<iframe class="embed-responsive-item" src="https://player.vimeo.com/video/123622178?color=00b2d9" width="950" height="534" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		</div> <!-- /.embed-responsive -->	
     </div> <!-- /.tab-pane -->
     
 
     <div role="tabpanel" class="tab-pane" id="ttu-two">
-
-		<iframe src="https://player.vimeo.com/video/100404474?color=00b2d9" width="950" height="534" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    	<div class="embed-responsive embed-responsive-16by9">
+			<iframe class="embed-responsive-item" src="https://player.vimeo.com/video/100404474?color=00b2d9" width="950" height="534" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    	</div> <!-- /.embed-responsive -->	
     </div> <!-- /.tab-pane -->
   </div> <!-- /.tab-content -->
 
