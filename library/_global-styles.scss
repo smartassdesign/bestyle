@@ -336,7 +336,7 @@ article h3 {
 }
 
 
-article h4 {
+article h4, .modal h4 {
 	font-size: 1.125rem;
 	font-weight: 700;
 	font-family: $klavika;
@@ -362,12 +362,19 @@ h6 {
 		text-transform: uppercase;
     	font-weight: 600;
     	margin-top: 30px;
+
+    	@include media-breakpoint-down(sm) {
+			font-size: 1.75rem;
+		}
 	}
 
 	.mission h2 {
 		font-weight: 300;
     	margin-bottom: 0;
     	font-size: 1.55rem;
+    	@include media-breakpoint-down(sm) {
+			font-size: 1.25rem;
+		}    	
 	}
 
 	.job-box h3 {
@@ -587,6 +594,11 @@ h6 {
     color: #fff;
     font-size: 3.25rem;
     text-shadow: rgba(0, 0, 0, 0.8) 2px 2px 5px;
+
+	@include media-breakpoint-down(sm) {
+		font-size: 1.25rem;
+	}
+
 }
 
 

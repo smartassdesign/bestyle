@@ -1,0 +1,224 @@
+li#field_2_1, li#field_2_2, li#field_2_3, li#field_2_4, li#field_2_5 {
+    label {
+      display: none;
+    }
+}
+
+
+  div#input_2_1.ginput_complex {
+    margin: auto
+  }
+
+
+    input#input_2_1_3 {
+      width: 48%;
+      float: left;
+    }
+
+    input#input_2_1_6 {
+      width: 48%;
+      float: right;
+    }
+
+
+
+
+.gform_wrapper ul {
+  @extend .list-unstyled;
+}
+.gform_wrapper li {
+  @extend .form-group;
+}
+.gform_wrapper form {
+  margin-bottom: 0;
+}
+.gform_wrapper .gfield_required {
+  padding-left: 1px;
+  color: $state-danger-text;
+}
+.ginput_container input,
+.ginput_container select,
+.ginput_container textarea {
+	@extend .form-control;
+}
+.ginput_container textarea {
+  height: auto;
+}
+.gform_button {
+	@extend .btn;
+	@extend .btn-primary;
+}
+.gform_wrapper .gfield_error {
+  .gfield_label {
+    color: $state-danger-text; 
+  }
+  input,
+  select,
+  textarea {
+    border-color: $brand-primary;
+    // background-color: $alert-danger-bg;
+    background-color: lighten($brand-primary, 55%);
+    color: $alert-danger-text;
+    // @include form-control-focus($alert-danger-text);
+  }
+}
+.validation_error {
+	@extend .alert;
+	@extend .alert-danger;
+}
+#gforms_confirmation_message {
+	@extend .alert;
+	@extend .alert-success;
+}
+
+
+.ginput_complex {
+	@extend .row;
+}
+
+#input_1_7_3_container, #input_1_7_6_container {
+	@extend .col-md-6
+}
+
+
+// GLOBAL validation styles
+
+.gfield_description.validation_message {
+  font-family: $font-family-sans-serif;
+  font-weight: 600;
+  letter-spacing: .03em;
+  font-size: 13px;
+  color: #444;
+  text-transform: uppercase;
+  line-height: 25px;
+
+    &:before {
+    content: "\f0d8";
+    font-family: 'icomoon';
+  speak: none;
+  font-style: normal;
+  font-weight: 600;
+  font-variant: normal;
+  text-transform: uppercase;
+  line-height: 1;
+  padding-right: 7px;
+  padding-left: 7px;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+
+.gform_wrapper .gfield_error input::-webkit-input-placeholder, .gform_wrapper .gfield_error select::-webkit-input-placeholder, .gform_wrapper .gfield_error textarea::-webkit-input-placeholder {
+  color: darken($input-color-placeholder, 20%);
+}
+
+
+
+.gform_wrapper li.gfield.gf_list_2col ul.gfield_checkbox li, .gform_wrapper li.gfield.gf_list_2col ul.gfield_radio li, .gform_wrapper li.gfield.gf_2col ul.gfield_checkbox li, .gform_wrapper li.gfield.gf_2col ul.gfield_radio li {
+    width: 50%;
+    display: -moz-inline-stack;
+    display: inline-block;
+    margin: 0 0 0.50em 0;
+    min-height: 1.8em;
+    vertical-align: top;
+}
+.gform_wrapper li.gfield.gf_list_3col ul.gfield_checkbox li, .gform_wrapper li.gfield.gf_list_3col ul.gfield_radio li, .gform_wrapper li.gfield.gf_3col ul.gfield_checkbox li, .gform_wrapper li.gfield.gf_3col ul.gfield_radio li {
+    width: 33%;
+    display: -moz-inline-stack;
+    display: inline-block;
+    margin: 0 0 0.50em 0;
+    min-height: 1.8em;
+    vertical-align: top;
+}
+.gform_wrapper li.gfield.gf_list_4col ul.gfield_checkbox li, .gform_wrapper li.gfield.gf_list_4col ul.gfield_radio li {
+    width: 25%;
+    display: -moz-inline-stack;
+    display: inline-block;
+    margin: 0 0 0.5em 0;
+    min-height: 1.8em;
+    vertical-align: top;
+}
+.gform_wrapper li.gfield.gf_list_5col ul.gfield_checkbox li, .gform_wrapper li.gfield.gf_list_5col ul.gfield_radio li {
+    width: 20%;
+    display: -moz-inline-stack;
+    display: inline-block;
+    margin: 0 0 0.50em 0;
+    min-height: 1.8em;
+    vertical-align: top;
+}
+.gform_wrapper li.gfield.gf_list_2col ul.gfield_checkbox, .gform_wrapper li.gfield.gf_list_2col ul.gfield_radio, .gform_wrapper li.gfield.gf_list_3col ul.gfield_checkbox, .gform_wrapper li.gfield.gf_list_3col ul.gfield_radio, .gform_wrapper li.gfield.gf_list_4col ul.gfield_checkbox, .gform_wrapper li.gfield.gf_list_4col ul.gfield_radio, .gform_wrapper li.gfield.gf_list_5col ul.gfield_checkbox, .gform_wrapper li.gfield.gf_list_5col ul.gfield_radio, .gform_wrapper li.gfield.gf_2col ul.gfield_checkbox, .gform_wrapper li.gfield.gf_2col ul.gfield_radio, .gform_wrapper li.gfield.gf_3col ul.gfield_checkbox, .gform_wrapper li.gfield.gf_3col ul.gfield_radio { overflow: hidden }
+.gform_wrapper  li.gfield.gf_list_2col label.gfield_label, .gform_wrapper  li.gfield.gf_list_3col label.gfield_label, .gform_wrapper  li.gfield.gf_list_4col label.gfield_label, .gform_wrapper  li.gfield.gf_list_5col label.gfield_label, .gform_wrapper  li.gfield.gf_list_inline label.gfield_label { margin: 0.625em 0 0.625em 0 }
+.gform_wrapper li.gfield.gf_list_height_25 ul.gfield_checkbox li, .gform_wrapper li.gfield.gf_list_height_25 ul.gfield_radio li { height: 25px }
+.gform_wrapper li.gfield.gf_list_height_50 ul.gfield_checkbox li, .gform_wrapper li.gfield.gf_list_height_50 ul.gfield_radio li { height: 50px }
+.gform_wrapper li.gfield.gf_list_height_75 ul.gfield_checkbox li, .gform_wrapper li.gfield.gf_list_height_75 ul.gfield_radio li { height: 75px }
+.gform_wrapper li.gfield.gf_list_height_100 ul.gfield_checkbox li, .gform_wrapper li.gfield.gf_list_height_100 ul.gfield_radio li { height: 100px }
+.gform_wrapper li.gfield.gf_list_height_125 ul.gfield_checkbox li, .gform_wrapper li.gfield.gf_list_height_125 ul.gfield_radio li { height: 125px }
+.gform_wrapper li.gfield.gf_list_height_150 ul.gfield_checkbox li, .gform_wrapper li.gfield.gf_list_height_150 ul.gfield_radio li { height: 150px }
+.gform_wrapper li.gf_list_inline ul.gfield_checkbox li, .gform_wrapper li.gf_list_inline ul.gfield_radio li {
+    width: auto !important;
+    float: none !important;
+    margin: 0 0.625em 0.625em 0;
+    display: -moz-inline-stack;
+    display: inline-block;
+}
+
+
+
+
+#field_2_6 .ginput_container input, #field_2_7 .ginput_container input {
+    width: auto;
+    display: inline-block;
+}
+
+
+    #field_2_4 {
+      width: 48%;
+      float: left;
+    }
+
+    #field_2_5 {
+      width: 48%;
+      float: right;
+    }
+
+
+li#field_2_6 li, li#field_2_7 li {
+    margin-bottom: 3px;
+}
+
+
+// li#field_2_6 {
+//     background: red;
+//     float: left;
+//     width: 48%;
+// }
+
+
+
+// li#field_2_7 {
+//     background: pink;
+//     float: right;
+//     width: 48%;
+// }
+
+
+// .modal-content {
+//   border: 0;
+// }
+
+// .modal-body {
+//   float: left;
+//   border-radius: 0;
+//   border: 15px solid #00b2d9;
+//   background: #fff;
+
+// }
+
+
+
+
+
+

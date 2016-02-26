@@ -8,6 +8,9 @@
 </div>
 
 
+<img class="img-fluid" src="/wp-content/themes/bestyle/assets/img/bein-presenters.jpg">
+
+
 <div id="highlights" class="ttu-highlight-videos">
 
 
@@ -636,7 +639,7 @@ Global Fund Services Product Development</span></p></a>
 				<li><a href="#bio-gelabert" class="panelbio" data-toggle="collapse">
 				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-gelabert.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Robert Gelabert</strong><br />
-				<span class="p-title">Entrepreneurship Student, LIU Brooklyn</span></p></a>
+				<span class="p-title">Entrepreneurship Student, LIU</span></p></a>
 					<div class="collapse" id="bio-gelabert">
 						<p>Robert Gelabert is a senior from Long Island University majoring in Business Administration. He is the Director of the university-run consulting firm, LIU-iQ Consulting, which has a number of clients across the globe. Robert is also a member of the LIU START-UP NY Internal Review Committee. He previously interned in real estate analytics at Luxottica and as a Consultant with Vistage.</p>
 					</div> <!-- /.collapse -->
@@ -663,7 +666,7 @@ Global Fund Services Product Development</span></p></a>
 				<li><a href="#bio-schroeder" class="panelbio" data-toggle="collapse">
 				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-schroeder.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Katja Schroeder</strong><br />
-				<span class="p-title">President, Expedition PR</span></p></a>
+				<span class="p-title">Managing Director, Bloom PR</span></p></a>
 					<div class="collapse" id="bio-schroeder">
 						<p>Katja Schroeder has created integrated communications campaigns for technology companies in North America, Europe and Asia-Pacific to build and strengthen their market position. Her passion is to communicate the positive impact of technology innovation. She has been counseling innovative companies, including SAP, Planet Solar, zkipster, Seed&Spark, tado° and the Race for Water Foundation on their communications strategies. Schroeder was a director at Burson-Marsteller and Senior Vice President at Ruder Finn NY, handling transnational PR programs for clients. She also built Ruder Finn’s technology practice in China to provide clients counsel on market-entry and positioning programs. Schroeder started her career in Europe as a freelancer for K&amp;K Kohtes &amp; Klewes (now Ketchum pleon, Germany), Weber Shandwick Paris (France) and ABC Berlin (Germany).</p>
 						
