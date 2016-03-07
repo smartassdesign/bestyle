@@ -536,7 +536,7 @@ Global Fund Services Product Development</span></p></a>
 				<p class="p-listing"><strong>Dawn Kissi</strong><br />
 				<span class="p-title">Executive Producer, Open Markets</span></p></a>
 					<div class="collapse" id="bio-kissi">
-						<p>Dawn Kissi is an award-winning journalist, executive producer and author covering global markets, finance and business. Throughout her career she has interviewed and profiled some of the world's most prominent individuals and businesses, landing exclusives with countless newsmakers. In 2015 she was awarded one of the first Made in NY Entrepreneur Innovation grants via the New York City Mayor's Office of Media &amp; Entertainment (MOME) for a new, single-topic news website that focuses on emerging markets. She is a graduate of Columbia University's Graduate School of Journalism, is based in New York City and works internationally.</p>
+						<p>Dawn Kissi is an award-winning journalist, executive producer and author covering global markets, finance and business. Throughout her career she has interviewed and profiled some of the world's most prominent individuals and businesses, landing exclusives with countless newsmakers. In 2015 she was awarded one of the first Made in NY Entrepreneur Innovation grants via the New York City Mayor's Office of Media & Entertainment (MOME) for a new, single-topic news website that focuses on emerging markets. She is a graduate of Columbia University's Graduate School of Journalism, is based in New York City and works internationally.</p>
 					</div> <!-- /.collapse -->
 				</li>		
 
