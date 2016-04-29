@@ -414,11 +414,15 @@ h6 {
 	float: left;
 	width: 	100%;
 
+	&.no-rule {
+		border-bottom: 0;
+	}
+
 	h2 {
 		font-size: 32px;
 	}
 
-	h2 + p {
+	h2 + p, .sympotext {
 		font-size: 20px;
 		font-weight: 300;
 	}

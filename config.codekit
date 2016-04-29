@@ -88,6 +88,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/BEINnovative-Symposium-Sponsor-Logos-03-15-16.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 98441,
+		"inputAbbreviatedPath": "\/assets\/img\/BEINnovative-Symposium-Sponsor-Logos-03-15-16.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/BEINnovative-Symposium-Sponsor-Logos-03-15-16.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/BEINnovative-Symposium-Sponsor-Logos.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -242,6 +253,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/hs-jamieson.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6656,
+		"inputAbbreviatedPath": "\/assets\/img\/hs-jamieson.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/hs-jamieson.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/hs-jeltema.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32186,
+		"inputAbbreviatedPath": "\/assets\/img\/hs-jeltema.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/hs-jeltema.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/hs-johnson.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -249,6 +282,17 @@
 		"initialSize": 14454,
 		"inputAbbreviatedPath": "\/assets\/img\/hs-johnson.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/hs-johnson.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/hs-kissi.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/assets\/img\/hs-kissi.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/hs-kissi.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -341,6 +385,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/img\/hs-roesler.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11963,
+		"inputAbbreviatedPath": "\/assets\/img\/hs-roesler.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/hs-roesler.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/img\/hs-rogoff.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -425,6 +480,17 @@
 		"initialSize": 9579,
 		"inputAbbreviatedPath": "\/assets\/img\/hs-wink.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/hs-wink.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/img\/hs-wu.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8102,
+		"inputAbbreviatedPath": "\/assets\/img\/hs-wu.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/hs-wu.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -615,6 +681,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/header.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/home.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/home.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0

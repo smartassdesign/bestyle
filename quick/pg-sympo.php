@@ -46,9 +46,6 @@
 </div> <!-- /.ttu-highlight-videos -->
 
 
-
-	<p class="text-xs-center m-t-2"><em>All panels, unless otherwise noted, will take place in LIU Brooklyn’s Sanford Lecture Hall.</em></p>
-
 <h3>Thursday</h3>
 
 
@@ -73,7 +70,7 @@
 				<li><a href="#bio-menendez" class="panelbio" data-toggle="collapse">
 				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-menendez.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Tanya Menendez</strong><br />
-				<span class="p-title">Co-Founder, Maker’s Row</span></p></a>
+				<span class="p-title">Co-Founder and CMO, Maker’s Row</span></p></a>
 					<div class="collapse" id="bio-menendez">
 						<p>Growing up in California, Tanya studied technology and its socioeconomic impacts on rural economies at UC San Diego. Tanya’s research in ethnography and sociology was published in several industry-leading journals. Before Maker's Row, Tanya managed operations within Google, Goldman Sachs and a leather goods line, The Brooklyn Bakery. While at The Brooklyn Bakery, she came up with the idea to create a platform for entrepreneurs to be able to easily access American manufacturers. Combining her experience in operations and automation with Matthew’s experience in global manufacturing, they started Maker’s Row.</p>
 					</div> <!-- /.collapse -->
@@ -93,9 +90,9 @@
 				<li><a href="#bio-padilla" class="panelbio" data-toggle="collapse">
 				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-padilla.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Elisa Padilla</strong><br />
-				<span class="p-title">Senior Vice President & Chief Marketing Officer, Brooklyn Sports &amp; Entertainment</span></p></a>
+				<span class="p-title">Senior Vice President & Chief Marketing Officer, Barclays Center</span></p></a>
 					<div class="collapse" id="bio-padilla">
-						<p>As Senior Vice President & Chief Marketing Officer for the Brooklyn Nets and Barclays Center, Elisa Padilla oversees all of the marketing efforts for the team and arena, including branding, advertising, merchandising, database research, creative, websites, and social media.</p>
+						<p>As Senior Vice President &amp; Chief Marketing Officer for the Brooklyn Nets and Barclays Center, Elisa Padilla oversees all of the marketing efforts for the team and arena, including branding, advertising, merchandising, database research, creative, websites, and social media.</p>
 
 						<p>Padilla seamlessly led the rebranding strategy of the Nets from New Jersey to Brooklyn, and is the creator of the award-winning branding campaign, Hello Brooklyn. She played a key role in establishing the brand identity for Barclays Center by branding its five programming franchises. Padilla is also leading the marketing efforts for the venue’s sixth programming franchise, the New York Islanders, who began playing in Brooklyn in Fall 2015.</p>
 
@@ -161,7 +158,7 @@
 		<div class="col-md-9 col-md-push-3">
 
 			<h2>Her Innovation: Breaking Through the Glass Ceiling</h2>
-			<p>Why in 2016 are we still having conversations about getting more women involved in the innovation economy?. Because only 1 in 4 professional technology positions in the US workforce are held by women. Hear about resources and new approaches to helping female entrepreneurs succeed in the innovation economy.</p>
+			<p>Why in 2016 are we still having conversations about getting more women involved in the innovation economy? Because only 1 in 4 professional technology positions in the US workforce are held by women. Hear about resources and new approaches to helping female entrepreneurs succeed in the innovation economy.</p>
 
 			<ul class="panelists list-unstyled">
 
@@ -199,10 +196,20 @@
 				</li>
 
 
+				<li><a href="#bio-jamieson" class="panelbio" data-toggle="collapse">
+				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-jamieson.jpg" class="img-fluid p-thumb">
+				<p class="p-listing"><strong>Calena Jamieson</strong><br />
+				<span class="p-title">East Coast Program Manager, Black Girls CODE</span></p></a>
+					<div class="collapse" id="bio-jamieson">
+					<p>Calena Jamieson is the East Coast Program Manager for <a href="http://www.blackgirlscode.com/">Black Girls CODE,</a> a nonprofit working to increase the number of women of color in the digital space by empowering girls of color ages 7 to 17 to become innovators in STEM fields, leaders in their communities, and builders of their own futures through exposure to computer science and technology. Prior to joining the Black Girls CODE team, she served as a lead volunteer for their New York City chapter.</p>
+					</div> <!-- /.collapse -->
+				</li>				
+
+
 				<li><a href="#bio-mcintyre" class="panelbio" data-toggle="collapse">
 				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-mcintyre.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Moderator: Brooke McIntyre</strong><br />
-				<span class="p-title">Inked Voices</span></p></a>
+				<span class="p-title">Founder, Inked Voices</span></p></a>
 					<div class="collapse" id="bio-mcintyre">
 						<p>Brooke McIntyre is the founder of <a href="https://www.inkedvoices.com/" target="_blank">Inked Voices</a>, helping writers write more and write better through its platform for online writing groups and its app <a href="https://itunes.apple.com/us/app/ink-on-track-word-counts-writing/id1034637079?mt=8">Ink On</a>. She’s passionate about using technology to facilitate peer learning, about connecting with people on a human-level on the web, and, of course, about writing. Brooke received her undergraduate degree from the University of Virginia and her MBA from the University of Michigan. She lives with her husband and two young children in Brooklyn.</p>
 					</div> <!-- /.collapse -->
@@ -216,6 +223,9 @@
 		<div class="col-md-3 col-md-pull-9">
 			<p class="panel-day">April 7</p>
 			<p class="panel-time">1pm</p>
+
+			<p>LIU Brooklyn <br />
+			Sanford Lecture Hall</p>
 
 			<a class="btn btn-block btn-primary" href="https://www.universe.com/events/be-innovative-symposium-april-7-2016-tickets-0NZ591">Register</a><script type="text/javascript" src="https://www.universe.com/embed.js"/></script>
 
@@ -305,6 +315,9 @@
 		<div class="col-md-3 col-md-pull-9">
 			<p class="panel-day">April 7</p>
 			<p class="panel-time">2:30pm</p>
+
+			<p>LIU Brooklyn <br />
+			Sanford Lecture Hall</p>			
 
 			<a class="btn btn-block btn-primary" href="https://www.universe.com/events/be-innovative-symposium-april-7-2016-tickets-0NZ591">Register</a><script type="text/javascript" src="https://www.universe.com/embed.js"/></script>
 
@@ -408,6 +421,8 @@
 			<p class="panel-day">April 7</p>
 			<p class="panel-time">4pm</p>
 
+			<p>LIU Brooklyn <br />
+			Sanford Lecture Hall</p>			
 
 			<a class="btn btn-block btn-primary" href="https://www.universe.com/events/be-innovative-symposium-april-7-2016-tickets-0NZ591">Register</a><script type="text/javascript" src="https://www.universe.com/embed.js"/></script>
 
@@ -430,10 +445,11 @@
 
 
 <div class="row">
-	<div class="event">
+	<div class="event no-rule">
 
 		<div class="col-md-9 col-md-push-3">
 			<h2>Networking Mixer</h2>
+			<p>Join us for this happy hour to mix and mingle with Downtown Brooklyn students and industry professionals from the Brooklyn Tech Triangle.  Find your next internship or job, build your professional network and start to build your entrepreneurship “dream team” for the weekend’s Hack Brooklyn Innovation Challenge.</p>
 		</div> <!-- /.col-md-9 -->
 
 
@@ -442,8 +458,8 @@
 			<p class="panel-day">April 7</p>
 			<p class="panel-time">5:30pm</p>
 
-			<p>Myrtle + Gold<br />
-			343 Gold Street</p>
+			<p>Ava Brew<br /> 
+			100 Willoughby Street</p>
 
 			<a class="btn btn-block btn-primary" href="https://www.universe.com/events/be-innovative-symposium-april-7-2016-tickets-0NZ591">Register</a><script type="text/javascript" src="https://www.universe.com/embed.js"/></script>
 
@@ -495,7 +511,7 @@
 
 			<p>Multiple Locations</p>
 
-			<a class="btn btn-block btn-primary" href="https://www.universe.com/events/be-innovative-symposium-april-8-2016-tickets-24JCND">Register</a><script type="text/javascript" src="https://www.universe.com/embed.js"/></script>
+			<a class="btn btn-block btn-primary" href="mailto:be.in@downtownbrooklyn.com">Register</a>
 
 		</div> <!-- /.col-md-3 -->
 
@@ -586,6 +602,9 @@ Global Fund Services Product Development</span></p></a>
 
 			<p class="panel-day">April 8</p>
 			<p class="panel-time">12pm</p>
+
+			<p>LIU Brooklyn <br />
+			Sanford Lecture Hall</p>			
 
 			<a class="btn btn-block btn-primary" href="https://www.universe.com/events/be-innovative-symposium-april-8-2016-tickets-24JCND">Register</a><script type="text/javascript" src="https://www.universe.com/embed.js"/></script>
 
@@ -698,6 +717,9 @@ Global Fund Services Product Development</span></p></a>
 			<p class="panel-day">April 8</p>
 			<p class="panel-time">1:30pm</p>
 
+			<p>LIU Brooklyn <br />
+			Sanford Lecture Hall</p>			
+
 			<a class="btn btn-block btn-primary" href="https://www.universe.com/events/be-innovative-symposium-april-8-2016-tickets-24JCND">Register</a><script type="text/javascript" src="https://www.universe.com/embed.js"/></script>
 
 		</div> <!-- /.col-md-3 -->
@@ -721,8 +743,8 @@ Global Fund Services Product Development</span></p></a>
 	<div class="event">
 
 		<div class="col-md-9 col-md-push-3">
-			<h2>Why You Should Hack</h2>
-			<p>Ever wondered about participating in a hackathon? Come find out why you should, even if you are not a hacker. Hear from some of our hackathon judges and mentors what you can expect.</p>
+			<h2>Hack Your Way To The Top: How Hackathons Help Your Career, Even If You’re Not a Coder</h2>
+			<p>Hackathons bring great minds together from all disciplines – not only coders - to create innovative solutions to common, but difficult challenges. They also help build up your resume when you use high-level problem solving and focused teamwork to come up with a fully fleshed out solution that you can showcase when applying for jobs. This panel is made up of judges and mentors from the weekend hackathon – who knows, maybe you’ll be inspired to take part!</p>
 
 
 			<ul class="panelists list-unstyled">
@@ -738,12 +760,12 @@ Global Fund Services Product Development</span></p></a>
 
 
 
-				<li><a href="#bio-lopez" class="panelbio" data-toggle="collapse">
-				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-lopez.jpg" class="img-fluid p-thumb">
-				<p class="p-listing"><strong>Ariel Lopez</strong><br />
-				<span class="p-title">Founder, 2020Shift</span></p></a>
-					<div class="collapse" id="bio-lopez">
-						<p>Ariel Lopez is a career coach and entrepreneur with an expertise in digital media and technology.  She has experience hiring marketing, advertising, and tech professionals for major brands and emerging start- ups. She is the founder of 2020Shift, a social enterprise designed to educate minority millennials on hybrid tech careers in AdTech. Her motto is turning passion into profit and helping others to do the same!​</p>
+				<li><a href="#bio-roesler" class="panelbio" data-toggle="collapse">
+				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-roesler.jpg" class="img-fluid p-thumb">
+				<p class="p-listing"><strong>Tiffany Roesler</strong><br />
+				<span class="p-title">CEO, ISPOSSIBLE IN TECH</span></p></a>
+					<div class="collapse" id="bio-roesler">
+						<p>Tiffany Roesler is a CEO, Chairwoman, Advisor and Angel Investor. Her greatest strength is executing on original ideas. She supports in helping organizations build inclusive and skilled teams leading to better problem solving capabilities while increasing retention. Roesler is the CEO of ISPOSSIBLE IN TECH, a technology staffing firm based in NYC with a satellite office in Chicago. She is also the Chairwoman for 2020 Shift which is a a social enterprise that  is designed to educate minority millennials on careers in digital media and technology. In February 2015, Roesler made her first Angel Investment in; HER the most popular dating app for lesbian and queer women.  She soon after invested in Quantified Care, which helps healthcare organizations manage gaps in patient care through a mobile engagement platform. In July of 2015, with her business partners she formed a dedicated vehicle for investing and advising called As One. Their first investment is in Teckst; which is incredible, textable technology. She is also an Advisor for Defiance Capital, a fund that supports LGBT minority-focused Founders and Startups.​</p>
 					</div> <!-- /.collapse -->
 				</li>		
 
@@ -769,12 +791,14 @@ Global Fund Services Product Development</span></p></a>
 				</li>		
 
 
-				<li><a href="#bio-tbd2" class="panelbio" data-toggle="collapse">
-				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-tbd2.jpg" class="img-fluid p-thumb">
-				<p class="p-listing"><strong>Moderator: TBD</strong><br />
-				<span class="p-title">Title: TBD</span></p></a>
-					<div class="collapse" id="bio-tbd2">
-						<p>BIO</p>
+				<li><a href="#bio-wu" class="panelbio" data-toggle="collapse">
+				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-wu.jpg" class="img-fluid p-thumb">
+				<p class="p-listing"><strong>Moderator: Robert Wu</strong><br />
+				<span class="p-title">Director, St Francis College Center for Entrepreneurship</span></p></a>
+					<div class="collapse" id="bio-wu">
+						<p>Professor Robert Wu, J.D., M.B.A. is the Director of the St Francis College Center for Entrepreneurship and advises entrepreneurs in financial and legal needs. Wu is also an Assistant Professor of Accounting & Business Law at St. Francis College in Brooklyn, New York, where he teaches courses in Elementary Accounting, Auditing, Investment Analysis, Business Law and Accounting Information Systems.</p>
+
+						<p>After beginning his career as a staff accountant for Ernst & Young, LLP, then transitioning into the product control group supporting the high-yield fixed income trading desk within Deutsche Bank, Professor Wu’s legal career started as a judicial extern to a Justice of the New York State Supreme Court (New York County), as a legal assistant to Office of the Chief Counsel, U.S. Department of Homeland Security, Immigration & Customs Enforcement.  Professor Wu was later appointed Assistant District Attorney within the Office of the Kings County District Attorney, Money Laundering & Revenue Crimes Bureau.  He is licensed to practice law in New York, before the United States Tax Court, and in all matters of U.S. immigration law.</p>
 					</div> <!-- /.collapse -->
 				</li>		
 
@@ -788,6 +812,9 @@ Global Fund Services Product Development</span></p></a>
 
 			<p class="panel-day">April 8</p>
 			<p class="panel-time">3pm</p>
+
+			<p>LIU Brooklyn <br />
+			Sanford Lecture Hall</p>			
 
 			<a class="btn btn-block btn-primary" href="https://www.universe.com/events/be-innovative-symposium-april-8-2016-tickets-24JCND">Register</a><script type="text/javascript" src="https://www.universe.com/embed.js"/></script>
 
@@ -813,7 +840,8 @@ Global Fund Services Product Development</span></p></a>
 	<div class="event">
 
 		<div class="col-md-9 col-md-push-3">
-			<h2>Hackathon</h2>
+			<h2>BE.IN Hack Brooklyn Innovation Challenge Kickoff</h2>
+			<p>Interested in helping to build a better Brooklyn? How about a better resume? If you’re a student in Downtown Brooklyn studying to become the next marketing genius, sales expert, design guru, data scientist, app developer, successful entrepreneur, political maneuverer, or you just love Brooklyn, take part in this weekend’s hackathon. You’ll form a team of fellow students and spend the weekend using your entrepreneurial skills to build prototype products and services for a greener, more sustainable Brooklyn – with dedicated mentoring by top Brooklyn innovation professionals. Hackathon winners receive a $2,000 cash prize. Free food and drink are included all weekend. Note: You must be a student (undergrad or graduate student) to participate. </p>
 		</div> <!-- /.col-md-9 -->
 
 
@@ -823,9 +851,10 @@ Global Fund Services Product Development</span></p></a>
 			<p class="panel-time">5:30pm</p>
 
 			<p>LIU Brooklyn<br />
-			Entrepreneurship Center</p>
+			Entrepreneurship Center<br />
+			Event end: April 10, 5pm</p>
 
-			<a class="btn btn-block btn-primary" href="https://www.universe.com/events/mentorship-hackathon-tickets-B5VCKR">Register</a><script type="text/javascript" src="https://www.universe.com/embed.js"/></script>
+			<a class="btn btn-block btn-primary" href="https://www.universe.com/events/mentorship-hackathon-tickets-B5VCKR">Register for Hackathon</a><script type="text/javascript" src="https://www.universe.com/embed.js"/></script>
 
 		</div> <!-- /.col-md-3 -->
 
@@ -834,6 +863,6 @@ Global Fund Services Product Development</span></p></a>
 </div> <!-- /.row -->
 
 
-<img src="<?php bloginfo('template_directory'); ?>/assets/img/BEINnovative-Symposium-Sponsor-Logos.jpg" class="img-fluid">
+<img src="<?php bloginfo('template_directory'); ?>/assets/img/BEINnovative-Symposium-Sponsor-Logos-03-15-16.jpg" class="img-fluid">
 
 
