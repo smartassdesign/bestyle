@@ -59,7 +59,7 @@
 
 			<ul class="panelists list-unstyled">
 				<li><a href="#bio-burnett" class="panelbio" data-toggle="collapse">
-				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-burnett.jpg" class="img-fluid p-thumb">
+				<img src="<?php echo esc_url( get_template_directory_uri()); ?>/assets/img/hs-burnett.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Matthew Burnett</strong><br />
 				<span class="p-title">Co-Founder and CEO, Maker’s Row</span></p></a>
 					<div class="collapse" id="bio-burnett">
@@ -68,7 +68,7 @@
 				</li>
 
 				<li><a href="#bio-menendez" class="panelbio" data-toggle="collapse">
-				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-menendez.jpg" class="img-fluid p-thumb">
+				<img src="<?php echo esc_url( get_template_directory_uri()); ?>/assets/img/hs-menendez.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Tanya Menendez</strong><br />
 				<span class="p-title">Co-Founder and CMO, Maker’s Row</span></p></a>
 					<div class="collapse" id="bio-menendez">
@@ -77,7 +77,7 @@
 				</li>
 
 				<li><a href="#bio-middleton" class="panelbio" data-toggle="collapse">
-				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-middleton.jpg" class="img-fluid p-thumb">
+				<img src="<?php echo esc_url( get_template_directory_uri()); ?>/assets/img/hs-middleton.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Jesse Middleton</strong><br />
 				<span class="p-title">Co-Founder, WeWork Labs</span></p></a>
 					<div class="collapse" id="bio-middleton">
@@ -88,7 +88,7 @@
 				</li> 
 
 				<li><a href="#bio-padilla" class="panelbio" data-toggle="collapse">
-				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-padilla.jpg" class="img-fluid p-thumb">
+				<img src="<?php echo esc_url( get_template_directory_uri()); ?>/assets/img/hs-padilla.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Elisa Padilla</strong><br />
 				<span class="p-title">Senior Vice President & Chief Marketing Officer, Barclays Center</span></p></a>
 					<div class="collapse" id="bio-padilla">
@@ -101,7 +101,7 @@
 				</li>
 
 				<li><a href="#bio-southern" class="panelbio" data-toggle="collapse">
-				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-southern.jpg" class="img-fluid p-thumb">
+				<img src="<?php echo esc_url( get_template_directory_uri()); ?>/assets/img/hs-southern.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Ted Southern</strong><br />
 				<span class="p-title">President, Final Frontier Design</span></p></a>
 					<div class="collapse" id="bio-southern">
@@ -111,7 +111,7 @@
 
 
 				<li><a href="#bio-wink" class="panelbio" data-toggle="collapse">
-				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-wink.jpg" class="img-fluid p-thumb">
+				<img src="<?php echo esc_url( get_template_directory_uri()); ?>/assets/img/hs-wink.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Moderator: Christopher Wink</strong><br />
 				<span class="p-title">Co-Founder and Editorial Director, Technical.ly</span></p></a>
 					<div class="collapse" id="bio-wink">
@@ -163,7 +163,7 @@
 			<ul class="panelists list-unstyled">
 
 				<li><a href="#bio-martin" class="panelbio" data-toggle="collapse">
-				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-martin.jpg" class="img-fluid p-thumb">
+				<img src="<?php echo esc_url( get_template_directory_uri()); ?>/assets/img/hs-martin.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>DJ Martin</strong><br />
 				<span class="p-title">Founder, Astia Angels</span></p></a>
 					<div class="collapse" id="bio-martin">
@@ -173,7 +173,7 @@
 
 
 				<li><a href="#bio-rogoff" class="panelbio" data-toggle="collapse">
-				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-rogoff.jpg" class="img-fluid p-thumb">
+				<img src="<?php echo esc_url( get_template_directory_uri()); ?>/assets/img/hs-rogoff.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Edward Rogoff</strong><br />
 				<span class="p-title">Dean of the School of Management, LIU Brooklyn</span></p></a>
 					<div class="collapse" id="bio-rogoff">
@@ -187,7 +187,7 @@
 
 
 				<li><a href="#bio-schaller" class="panelbio" data-toggle="collapse">
-				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-schaller.jpg" class="img-fluid p-thumb">
+				<img src="<?php echo esc_url( get_template_directory_uri()); ?>/assets/img/hs-schaller.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Rhonda Schaller</strong><br />
 				<span class="p-title">Director of Career + Professional Development, Pratt Institute</span></p></a>
 					<div class="collapse" id="bio-schaller">
@@ -197,7 +197,7 @@
 
 
 				<li><a href="#bio-jamieson" class="panelbio" data-toggle="collapse">
-				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-jamieson.jpg" class="img-fluid p-thumb">
+				<img src="<?php echo esc_url( get_template_directory_uri()); ?>/assets/img/hs-jamieson.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Calena Jamieson</strong><br />
 				<span class="p-title">East Coast Program Manager, Black Girls CODE</span></p></a>
 					<div class="collapse" id="bio-jamieson">
@@ -207,7 +207,7 @@
 
 
 				<li><a href="#bio-mcintyre" class="panelbio" data-toggle="collapse">
-				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-mcintyre.jpg" class="img-fluid p-thumb">
+				<img src="<?php echo esc_url( get_template_directory_uri()); ?>/assets/img/hs-mcintyre.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Moderator: Brooke McIntyre</strong><br />
 				<span class="p-title">Founder, Inked Voices</span></p></a>
 					<div class="collapse" id="bio-mcintyre">
@@ -252,7 +252,7 @@
 			<ul class="panelists list-unstyled">
 
 				<li><a href="#bio-askin" class="panelbio" data-toggle="collapse">
-				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-askin.jpg" class="img-fluid p-thumb">
+				<img src="<?php echo esc_url( get_template_directory_uri()); ?>/assets/img/hs-askin.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Jonathan Askin</strong><br />
 				<span class="p-title">Founder/Director, Brooklyn Law Incubator and Policy Clinic</span></p></a>
 					<div class="collapse" id="bio-askin">
@@ -265,7 +265,7 @@
 				</li>		
 
 				<li><a href="#bio-calhoon" class="panelbio" data-toggle="collapse">
-				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-calhoon.jpg" class="img-fluid p-thumb">
+				<img src="<?php echo esc_url( get_template_directory_uri()); ?>/assets/img/hs-calhoon.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Hannah Calhoon</strong><br />
 				<span class="p-title">Director, Blue Ridge Labs@Robin Hood</span></p></a>
 					<div class="collapse" id="bio-calhoon">
@@ -274,7 +274,7 @@
 				</li>		
 
 				<li><a href="#bio-cantu" class="panelbio" data-toggle="collapse">
-				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-cantu.jpg" class="img-fluid p-thumb">
+				<img src="<?php echo esc_url( get_template_directory_uri()); ?>/assets/img/hs-cantu.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Dinorah Cantú-Pedraza</strong><br />
 				<span class="p-title"> Director, The GovLab Academy, GovLab</span></p></a>
 					<div class="collapse" id="bio-cantu">
@@ -285,7 +285,7 @@
 				</li>		
 
 				<li><a href="#bio-hidalgo" class="panelbio" data-toggle="collapse">
-				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-hidalgo.jpg" class="img-fluid p-thumb">
+				<img src="<?php echo esc_url( get_template_directory_uri()); ?>/assets/img/hs-hidalgo.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Noel Hidalgo</strong><br />
 				<span class="p-title">Co-Founder, BetaNYC</span></p></a>
 					<div class="collapse" id="bio-hidalgo">
@@ -295,7 +295,7 @@
 
 
 				<li><a href="#bio-stempeck" class="panelbio" data-toggle="collapse">
-				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-stempeck.jpg" class="img-fluid p-thumb">
+				<img src="<?php echo esc_url( get_template_directory_uri()); ?>/assets/img/hs-stempeck.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Moderator: Matthew Stempeck</strong><br />
 				<span class="p-title">Director of Civic Technology, Microsoft</span></p></a>
 					<div class="collapse" id="bio-stempeck">
@@ -357,7 +357,7 @@
 			<ul class="panelists list-unstyled">
 
 				<li><a href="#bio-dasilva" class="panelbio" data-toggle="collapse">
-				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-dasilva.jpg" class="img-fluid p-thumb">
+				<img src="<?php echo esc_url( get_template_directory_uri()); ?>/assets/img/hs-dasilva.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Jason DaSilva</strong><br />
 				<span class="p-title">Founder, AXS Map</span></p></a>
 					<div class="collapse" id="bio-dasilva">
@@ -368,7 +368,7 @@
 				</li>		
 
 				<li><a href="#bio-desai" class="panelbio" data-toggle="collapse">
-				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-desai.jpg" class="img-fluid p-thumb">
+				<img src="<?php echo esc_url( get_template_directory_uri()); ?>/assets/img/hs-desai.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Darshan Desai</strong><br />
 				<span class="p-title">Professor, Berkeley College</span></p></a>
 					<div class="collapse" id="bio-desai">
@@ -378,7 +378,7 @@
 
 
 				<li><a href="#bio-goldstein" class="panelbio" data-toggle="collapse">
-				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-goldstein.jpg" class="img-fluid p-thumb">
+				<img src="<?php echo esc_url( get_template_directory_uri()); ?>/assets/img/hs-goldstein.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Allan Goldstein</strong><br />
 				<span class="p-title">Senior Lecturer, NYU Tandon School of Engineering</span></p></a>
 					<div class="collapse" id="bio-goldstein">
@@ -388,7 +388,7 @@
 
 
 				<li><a href="#bio-young" class="panelbio" data-toggle="collapse">
-				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-young.jpg" class="img-fluid p-thumb">
+				<img src="<?php echo esc_url( get_template_directory_uri()); ?>/assets/img/hs-young.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Jenny Young</strong><br />
 				<span class="p-title">Owner, Brooklyn Robot Foundry</span></p></a>
 					<div class="collapse" id="bio-young">
@@ -398,7 +398,7 @@
 
 
 				<li><a href="#bio-russo" class="panelbio" data-toggle="collapse">
-				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-russo.jpg" class="img-fluid p-thumb">
+				<img src="<?php echo esc_url( get_template_directory_uri()); ?>/assets/img/hs-russo.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Moderator: Paul Russo</strong><br />
 				<span class="p-title">Current Vice Provost &amp; Dean, YU School of Graduate and Professional Studies</span></p></a>
 					<div class="collapse" id="bio-russo">
@@ -537,7 +537,7 @@
 			<ul class="panelists list-unstyled">
 
 				<li><a href="#bio-jeltema" class="panelbio" data-toggle="collapse">
-				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-jeltema.jpg" class="img-fluid p-thumb">
+				<img src="<?php echo esc_url( get_template_directory_uri()); ?>/assets/img/hs-jeltema.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>John Jeltema</strong><br />
 				<span class="p-title">Executive Director, JPMorgan Corporate and Investment Bank
 Global Fund Services Product Development</span></p></a>
@@ -548,7 +548,7 @@ Global Fund Services Product Development</span></p></a>
 
 
 				<li><a href="#bio-kissi" class="panelbio" data-toggle="collapse">
-				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-kissi.jpg" class="img-fluid p-thumb">
+				<img src="<?php echo esc_url( get_template_directory_uri()); ?>/assets/img/hs-kissi.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Dawn Kissi</strong><br />
 				<span class="p-title">CEO, Emerging Market Media</span></p></a>
 					<div class="collapse" id="bio-kissi">
@@ -558,7 +558,7 @@ Global Fund Services Product Development</span></p></a>
 
 
 				<li><a href="#bio-petterson" class="panelbio" data-toggle="collapse">
-				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-petterson.jpg" class="img-fluid p-thumb">
+				<img src="<?php echo esc_url( get_template_directory_uri()); ?>/assets/img/hs-petterson.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Sean Petterson</strong><br />
 				<span class="p-title">CEO + Founder, Strong Arm Technologies</span></p></a>
 					<div class="collapse" id="bio-petterson">
@@ -569,7 +569,7 @@ Global Fund Services Product Development</span></p></a>
 
 
 				<li><a href="#bio-yee" class="panelbio" data-toggle="collapse">
-				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-yee.jpg" class="img-fluid p-thumb">
+				<img src="<?php echo esc_url( get_template_directory_uri()); ?>/assets/img/hs-yee.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Eugene Yee</strong><br />
 				<span class="p-title">Lead iOS Engineer, Teleport</span></p></a>
 					<div class="collapse" id="bio-yee">
@@ -580,7 +580,7 @@ Global Fund Services Product Development</span></p></a>
 
 
 				<li><a href="#bio-edwards" class="panelbio" data-toggle="collapse">
-				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-edwards.jpg" class="img-fluid p-thumb">
+				<img src="<?php echo esc_url( get_template_directory_uri()); ?>/assets/img/hs-edwards.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Moderator: John Edwards</strong><br />
 				<span class="p-title">Executive Director, Brooklyn Navy Yard Employment Center</span></p></a>
 					<div class="collapse" id="bio-edwards">
@@ -645,7 +645,7 @@ Global Fund Services Product Development</span></p></a>
 			<ul class="panelists list-unstyled">
 
 				<li><a href="#bio-duffy" class="panelbio" data-toggle="collapse">
-				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-duffy.jpg" class="img-fluid p-thumb">
+				<img src="<?php echo esc_url( get_template_directory_uri()); ?>/assets/img/hs-duffy.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Elana Duffy</strong><br />
 				<span class="p-title">CEO + Co-Founder, Pathfinder</span></p></a>
 					<div class="collapse" id="bio-duffy">
@@ -656,7 +656,7 @@ Global Fund Services Product Development</span></p></a>
 
 
 				<li><a href="#bio-gelabert" class="panelbio" data-toggle="collapse">
-				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-gelabert.jpg" class="img-fluid p-thumb">
+				<img src="<?php echo esc_url( get_template_directory_uri()); ?>/assets/img/hs-gelabert.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Robert Gelabert</strong><br />
 				<span class="p-title">Entrepreneurship Student, LIU</span></p></a>
 					<div class="collapse" id="bio-gelabert">
@@ -667,7 +667,7 @@ Global Fund Services Product Development</span></p></a>
 
 
 				<li><a href="#bio-kuyan" class="panelbio" data-toggle="collapse">
-				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-kuyan.jpg" class="img-fluid p-thumb">
+				<img src="<?php echo esc_url( get_template_directory_uri()); ?>/assets/img/hs-kuyan.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Steven Kuyan</strong><br />
 				<span class="p-title">Managing Director of Incubators and Entrepreneurship, NYU Tandon School of Engineering</span></p></a>
 					<div class="collapse" id="bio-kuyan">
@@ -683,7 +683,7 @@ Global Fund Services Product Development</span></p></a>
 
 
 				<li><a href="#bio-schroeder" class="panelbio" data-toggle="collapse">
-				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-schroeder.jpg" class="img-fluid p-thumb">
+				<img src="<?php echo esc_url( get_template_directory_uri()); ?>/assets/img/hs-schroeder.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Katja Schroeder</strong><br />
 				<span class="p-title">Managing Director, Bloom PR</span></p></a>
 					<div class="collapse" id="bio-schroeder">
@@ -697,7 +697,7 @@ Global Fund Services Product Development</span></p></a>
 
 
 				<li><a href="#bio-coghlan" class="panelbio" data-toggle="collapse">
-				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-coghlan.jpg" class="img-fluid p-thumb">
+				<img src="<?php echo esc_url( get_template_directory_uri()); ?>/assets/img/hs-coghlan.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Moderator: John Coghlan</strong><br />
 				<span class="p-title">Founder, DUMBO Startup Lab</span></p></a>
 					<div class="collapse" id="bio-coghlan">
@@ -750,7 +750,7 @@ Global Fund Services Product Development</span></p></a>
 			<ul class="panelists list-unstyled">
 
 				<li><a href="#bio-johnson" class="panelbio" data-toggle="collapse">
-				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-johnson.jpg" class="img-fluid p-thumb">
+				<img src="<?php echo esc_url( get_template_directory_uri()); ?>/assets/img/hs-johnson.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Shaun Johnson</strong><br />
 				<span class="p-title">Co-Founder and New York Program Director, Startup Institute</span></p></a>
 					<div class="collapse" id="bio-johnson">
@@ -761,7 +761,7 @@ Global Fund Services Product Development</span></p></a>
 
 
 				<li><a href="#bio-roesler" class="panelbio" data-toggle="collapse">
-				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-roesler.jpg" class="img-fluid p-thumb">
+				<img src="<?php echo esc_url( get_template_directory_uri()); ?>/assets/img/hs-roesler.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Tiffany Roesler</strong><br />
 				<span class="p-title">CEO, ISPOSSIBLE IN TECH</span></p></a>
 					<div class="collapse" id="bio-roesler">
@@ -772,7 +772,7 @@ Global Fund Services Product Development</span></p></a>
 
 
 				<li><a href="#bio-a-martin" class="panelbio" data-toggle="collapse">
-				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-a-martin.jpg" class="img-fluid p-thumb">
+				<img src="<?php echo esc_url( get_template_directory_uri()); ?>/assets/img/hs-a-martin.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Alyson Martin</strong><br />
 				<span class="p-title">Co-Founder, Cannabis Wire</span></p></a>
 					<div class="collapse" id="bio-a-martin">
@@ -782,7 +782,7 @@ Global Fund Services Product Development</span></p></a>
 
 
 				<li><a href="#bio-soto" class="panelbio" data-toggle="collapse">
-				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-soto.jpg" class="img-fluid p-thumb">
+				<img src="<?php echo esc_url( get_template_directory_uri()); ?>/assets/img/hs-soto.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Jeff Soto</strong><br />
 				<span class="p-title">Founder and CEO, Tendigi</span></p></a>
 					<div class="collapse" id="bio-soto">
@@ -792,7 +792,7 @@ Global Fund Services Product Development</span></p></a>
 
 
 				<li><a href="#bio-wu" class="panelbio" data-toggle="collapse">
-				<img src="<?php bloginfo('template_directory'); ?>/assets/img/hs-wu.jpg" class="img-fluid p-thumb">
+				<img src="<?php echo esc_url( get_template_directory_uri()); ?>/assets/img/hs-wu.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Moderator: Robert Wu</strong><br />
 				<span class="p-title">Director, St Francis College Center for Entrepreneurship</span></p></a>
 					<div class="collapse" id="bio-wu">
@@ -863,6 +863,6 @@ Global Fund Services Product Development</span></p></a>
 </div> <!-- /.row -->
 
 
-<img src="<?php bloginfo('template_directory'); ?>/assets/img/BEINnovative-Symposium-Sponsor-Logos-03-15-16.jpg" class="img-fluid">
+<img src="<?php echo esc_url( get_template_directory_uri()); ?>/assets/img/BEINnovative-Symposium-Sponsor-Logos-03-15-16.jpg" class="img-fluid">
 
 
