@@ -3,7 +3,7 @@
 <div class="sympo-header m-y-2">
 	<img class="img-fluid" src="/wp-content/themes/bestyle/assets/img/BEINnovative-Symposium-banner.png">
 
-<p class="lede m-t-2">The BE.INnovative Symposium is an annual event to connect the tech, creative, and academic communities in the <a href="http://brooklyntechtriangle.com">Brooklyn Tech Triangle</a>. This year’s highlights include panels on the theme of “Innovation for All,” practical discussions geared toward job searchers who want to land that coveted position (or create their own), and a hackathon tackling local sustainability challenges. Formerly known as Tech Triangle U, the symposium is hosted by BE.IN member institutions in collaboration with the <a href="http://downtownbrooklyn.com">Downtown Brooklyn Partnership</a>.</p>
+<p class="lede m-t-2">The BE.INnovative Symposium is an annual event to connect the tech, creative, and academic communities in the <a href="http://brooklyntechtriangle.com">Brooklyn Tech Triangle</a>. This year&rsquo;s highlights include panels on the theme of "Innovation for All," practical discussions geared toward job searchers who want to land that coveted position (or create their own), and a hackathon tackling local sustainability challenges. Formerly known as Tech Triangle U, the symposium is hosted by BE.IN member institutions in collaboration with the <a href="http://downtownbrooklyn.com">Downtown Brooklyn Partnership</a>.</p>
 
 </div>
 
@@ -61,18 +61,18 @@
 				<li><a href="#bio-burnett" class="panelbio" data-toggle="collapse">
 				<img src="<?php echo esc_url( get_template_directory_uri()); ?>/assets/img/hs-burnett.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Matthew Burnett</strong><br />
-				<span class="p-title">Co-Founder and CEO, Maker’s Row</span></p></a>
+				<span class="p-title">Co-Founder and CEO, Maker&rsquo;s Row</span></p></a>
 					<div class="collapse" id="bio-burnett">
-						<p>Matthew Burnett is the CEO and Co-Founder of Maker’s Row, an online marketplace for American manufacturers with a network of over 9,500 manufacturers and 90,000 brands creating products in the USA. Matthew, a Detroit native, received a BFA in industrial design from Pratt Institute. His early career began as a timepiece designer for Marc Jacobs, Diesel, and DKNY. Before Maker’s Row, Matthew has founded a watch company and leather goods line (The Brooklyn Bakery) which exposed him to the firsthand benefits of manufacturing domestically in order to maintain control over the quality of production and form closer relationships with suppliers and contractors. In 2011 Burnett partnered with Tanya Menendez on The Brooklyn Bakery to manage sales and operations. From this collaboration, with Burnett’s background in manufacturing and Menendez’s experience with operations, they began to develop the blueprint for what is today, Maker’s Row.</p>
+						<p>Matthew Burnett is the CEO and Co-Founder of Maker&rsquo;s Row, an online marketplace for American manufacturers with a network of over 9,500 manufacturers and 90,000 brands creating products in the USA. Matthew, a Detroit native, received a BFA in industrial design from Pratt Institute. His early career began as a timepiece designer for Marc Jacobs, Diesel, and DKNY. Before Maker&rsquo;s Row, Matthew has founded a watch company and leather goods line (The Brooklyn Bakery) which exposed him to the firsthand benefits of manufacturing domestically in order to maintain control over the quality of production and form closer relationships with suppliers and contractors. In 2011 Burnett partnered with Tanya Menendez on The Brooklyn Bakery to manage sales and operations. From this collaboration, with Burnett&rsquo;s background in manufacturing and Menendez&rsquo;s experience with operations, they began to develop the blueprint for what is today, Maker&rsquo;s Row.</p>
 					</div> <!-- /.collapse -->
 				</li>
 
 				<li><a href="#bio-menendez" class="panelbio" data-toggle="collapse">
 				<img src="<?php echo esc_url( get_template_directory_uri()); ?>/assets/img/hs-menendez.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Tanya Menendez</strong><br />
-				<span class="p-title">Co-Founder and CMO, Maker’s Row</span></p></a>
+				<span class="p-title">Co-Founder and CMO, Maker&rsquo;s Row</span></p></a>
 					<div class="collapse" id="bio-menendez">
-						<p>Growing up in California, Tanya studied technology and its socioeconomic impacts on rural economies at UC San Diego. Tanya’s research in ethnography and sociology was published in several industry-leading journals. Before Maker's Row, Tanya managed operations within Google, Goldman Sachs and a leather goods line, The Brooklyn Bakery. While at The Brooklyn Bakery, she came up with the idea to create a platform for entrepreneurs to be able to easily access American manufacturers. Combining her experience in operations and automation with Matthew’s experience in global manufacturing, they started Maker’s Row.</p>
+						<p>Growing up in California, Tanya studied technology and its socioeconomic impacts on rural economies at UC San Diego. Tanya&rsquo;s research in ethnography and sociology was published in several industry-leading journals. Before Maker's Row, Tanya managed operations within Google, Goldman Sachs and a leather goods line, The Brooklyn Bakery. While at The Brooklyn Bakery, she came up with the idea to create a platform for entrepreneurs to be able to easily access American manufacturers. Combining her experience in operations and automation with Matthew&rsquo;s experience in global manufacturing, they started Maker&rsquo;s Row.</p>
 					</div> <!-- /.collapse -->
 				</li>
 
@@ -90,13 +90,13 @@
 				<li><a href="#bio-padilla" class="panelbio" data-toggle="collapse">
 				<img src="<?php echo esc_url( get_template_directory_uri()); ?>/assets/img/hs-padilla.jpg" class="img-fluid p-thumb">
 				<p class="p-listing"><strong>Elisa Padilla</strong><br />
-				<span class="p-title">Senior Vice President & Chief Marketing Officer, Barclays Center</span></p></a>
+				<span class="p-title">Senior Vice President &amp; Chief Marketing Officer, Barclays Center</span></p></a>
 					<div class="collapse" id="bio-padilla">
 						<p>As Senior Vice President &amp; Chief Marketing Officer for the Brooklyn Nets and Barclays Center, Elisa Padilla oversees all of the marketing efforts for the team and arena, including branding, advertising, merchandising, database research, creative, websites, and social media.</p>
 
-						<p>Padilla seamlessly led the rebranding strategy of the Nets from New Jersey to Brooklyn, and is the creator of the award-winning branding campaign, Hello Brooklyn. She played a key role in establishing the brand identity for Barclays Center by branding its five programming franchises. Padilla is also leading the marketing efforts for the venue’s sixth programming franchise, the New York Islanders, who began playing in Brooklyn in Fall 2015.</p>
+						<p>Padilla seamlessly led the rebranding strategy of the Nets from New Jersey to Brooklyn, and is the creator of the award-winning branding campaign, Hello Brooklyn. She played a key role in establishing the brand identity for Barclays Center by branding its five programming franchises. Padilla is also leading the marketing efforts for the venue&rsquo;s sixth programming franchise, the New York Islanders, who began playing in Brooklyn in Fall 2015.</p>
 
-						<p>Prior to joining the Nets, Padilla accumulated nearly 20 years of experience in the marketing industry, working with high profile sports and entertainment companies such as AT&T, HBO Sports, Nickelodeon, the NBA and the New York Knicks. During her time at AT&T, she developed marketing plans targeted at the Hispanic Segment that resulted in solid customer acquisition and retail distribution expansion in key highly Hispanic traffic areas. She also spearheaded marketing efforts for the opening of the first AT&T store in New York City’s Chinatown.</p>
+						<p>Prior to joining the Nets, Padilla accumulated nearly 20 years of experience in the marketing industry, working with high profile sports and entertainment companies such as AT&amp;T, HBO Sports, Nickelodeon, the NBA and the New York Knicks. During her time at AT&amp;T, she developed marketing plans targeted at the Hispanic Segment that resulted in solid customer acquisition and retail distribution expansion in key highly Hispanic traffic areas. She also spearheaded marketing efforts for the opening of the first AT&amp;T store in New York City&rsquo;s Chinatown.</p>
 					</div> <!-- /.collapse -->
 				</li>
 
@@ -105,7 +105,7 @@
 				<p class="p-listing"><strong>Ted Southern</strong><br />
 				<span class="p-title">President, Final Frontier Design</span></p></a>
 					<div class="collapse" id="bio-southern">
-						<p>Ted Southern, President of FFD, artist, and designer, began his career in aerospace by entering the NASA Astronaut Glove Challenge in 2007 as part of his MFA thesis at Pratt Institute. In 2009, Ted and co-founder Nikolay Moiseev took home a cash prize and created FFD from the winnings. Prior to space, Ted’s work focused on technical garments for movies, theatre, and television including wings for Victoria’s Secret and costumes for Cirque du Soleil.</p>
+						<p>Ted Southern, President of FFD, artist, and designer, began his career in aerospace by entering the NASA Astronaut Glove Challenge in 2007 as part of his MFA thesis at Pratt Institute. In 2009, Ted and co-founder Nikolay Moiseev took home a cash prize and created FFD from the winnings. Prior to space, Ted&rsquo;s work focused on technical garments for movies, theatre, and television including wings for Victoria&rsquo;s Secret and costumes for Cirque du Soleil.</p>
 					</div> <!-- /.collapse -->
 				</li>
 
@@ -167,7 +167,7 @@
 				<p class="p-listing"><strong>DJ Martin</strong><br />
 				<span class="p-title">Founder, Astia Angels</span></p></a>
 					<div class="collapse" id="bio-martin">
-						<p>D.J. Martin in a Founding Member of Astia Angels (the angel investing arm of <a href="http://www.astia.org" target="_blank">www.astia.org</a>) whose mission is to fund exceptional women-led high-growth ventures.  He in an investor in numerous female-led startups and is a founding shareholder and former Board Member of Juice Beauty, Inc., a female-founded line of Organic Skin Care.  He is co-owner of recently opened Tangerine Hot Power Yoga in Downtown Brooklyn (female co-founded) and is a former self-taught independent futures trader who for one winter in Chicago had to ride his bicycle to work because he could not afford subway fare... so he knows all too well what it feels like to be down & out / fail over and over, but not give up!</p>
+						<p>D.J. Martin in a Founding Member of Astia Angels (the angel investing arm of <a href="http://www.astia.org" target="_blank">www.astia.org</a>) whose mission is to fund exceptional women-led high-growth ventures.  He in an investor in numerous female-led startups and is a founding shareholder and former Board Member of Juice Beauty, Inc., a female-founded line of Organic Skin Care.  He is co-owner of recently opened Tangerine Hot Power Yoga in Downtown Brooklyn (female co-founded) and is a former self-taught independent futures trader who for one winter in Chicago had to ride his bicycle to work because he could not afford subway fare... so he knows all too well what it feels like to be down &amp; out / fail over and over, but not give up!</p>
 					</div> <!-- /.collapse -->
 				</li>
 
@@ -211,7 +211,7 @@
 				<p class="p-listing"><strong>Moderator: Brooke McIntyre</strong><br />
 				<span class="p-title">Founder, Inked Voices</span></p></a>
 					<div class="collapse" id="bio-mcintyre">
-						<p>Brooke McIntyre is the founder of <a href="https://www.inkedvoices.com/" target="_blank">Inked Voices</a>, helping writers write more and write better through its platform for online writing groups and its app <a href="https://itunes.apple.com/us/app/ink-on-track-word-counts-writing/id1034637079?mt=8">Ink On</a>. She’s passionate about using technology to facilitate peer learning, about connecting with people on a human-level on the web, and, of course, about writing. Brooke received her undergraduate degree from the University of Virginia and her MBA from the University of Michigan. She lives with her husband and two young children in Brooklyn.</p>
+						<p>Brooke McIntyre is the founder of <a href="https://www.inkedvoices.com/" target="_blank">Inked Voices</a>, helping writers write more and write better through its platform for online writing groups and its app <a href="https://itunes.apple.com/us/app/ink-on-track-word-counts-writing/id1034637079?mt=8">Ink On</a>. She&rsquo;s passionate about using technology to facilitate peer learning, about connecting with people on a human-level on the web, and, of course, about writing. Brooke received her undergraduate degree from the University of Virginia and her MBA from the University of Michigan. She lives with her husband and two young children in Brooklyn.</p>
 					</div> <!-- /.collapse -->
 				</li>
 
@@ -247,7 +247,7 @@
 		<div class="col-md-9 col-md-push-3">
 
 			<h2>Civic Innovation: Opportunities for a better Brooklyn</h2>
-			<p>How can government, non-profit leaders, and the private sector collaborate to solve Brooklyn’s toughest challenges? Hear from experts in the world of civic technology about specific projects being tackled in the Brooklyn Tech Triangle and how to better deploy innovation to answer major social issues in the neighborhood.</p>
+			<p>How can government, non-profit leaders, and the private sector collaborate to solve Brooklyn&rsquo;s toughest challenges? Hear from experts in the world of civic technology about specific projects being tackled in the Brooklyn Tech Triangle and how to better deploy innovation to answer major social issues in the neighborhood.</p>
 
 			<ul class="panelists list-unstyled">
 
@@ -260,7 +260,7 @@
 
 						<p>Professor Askin is also the Innovation Catalyst for the Brooklyn Law <a href="http://www.brooklaw.edu/intellectuallife/CUBE.aspx" target="_blank">Center for Urban Business Entrepreneurship</a>, a Visiting Professor at the Centre for Commercial Law Studies, Queen Mary University of London, a Fellow at the Columbia Institute for Tele-Information, an Adjunct Professor at Columbia Law School, and Founder and Advisor to iLINC, a network of legal support clinics for the European startup community.</p>
 
-						<p>A sought-after expert in the field of Internet law, he played a key role in the tech task force of President Barack Obama’s 2008 election campaign. He has also served as president and general counsel for the Association for Local Telecommunications Services and was a senior attorney at the Federal Communications Commission. He is actively involved in developing Brooklyn as the 21st century “Silicon Alley,” recognizing the borough as a burgeoning hub for innovative start-ups, and is affiliated with the <a href="http://www.brooklaw.edu/intellectuallife/centerforinternationalbusinesslaw/overview.aspx" target="_blank">Dennis J. Block Center for the Study of International Business Law</a>.</p>
+						<p>A sought-after expert in the field of Internet law, he played a key role in the tech task force of President Barack Obama&rsquo;s 2008 election campaign. He has also served as president and general counsel for the Association for Local Telecommunications Services and was a senior attorney at the Federal Communications Commission. He is actively involved in developing Brooklyn as the 21st century &ldquo;Silicon Alley,&rdquo; recognizing the borough as a burgeoning hub for innovative start-ups, and is affiliated with the <a href="http://www.brooklaw.edu/intellectuallife/centerforinternationalbusinesslaw/overview.aspx" target="_blank">Dennis J. Block Center for the Study of International Business Law</a>.</p>
 					</div> <!-- /.collapse -->
 				</li>		
 
@@ -269,7 +269,7 @@
 				<p class="p-listing"><strong>Hannah Calhoon</strong><br />
 				<span class="p-title">Director, Blue Ridge Labs@Robin Hood</span></p></a>
 					<div class="collapse" id="bio-calhoon">
-						<p>Hannah Calhoon is the founder and Director of Blue Ridge Labs @ Robin Hood, an initiative of the Robin Hood Foundation that supports innovators who are developing digital tools &amp; platforms to help New Yorkers build better lives for themselves and their families. As Director, she leads the design and implementation of the Labs’ fellowship and incubation programs, serves as an advisor to program participants, and oversees program operations. Before starting the Labs, Hannah worked in the Boston Consulting Group’s Global Public Health & Development practice, at Acumen on domestic impact investing strategy, and at Embrace Global, a social enterprise based in Bangalore, India.</p>
+						<p>Hannah Calhoon is the founder and Director of Blue Ridge Labs @ Robin Hood, an initiative of the Robin Hood Foundation that supports innovators who are developing digital tools &amp; platforms to help New Yorkers build better lives for themselves and their families. As Director, she leads the design and implementation of the Labs&rsquo; fellowship and incubation programs, serves as an advisor to program participants, and oversees program operations. Before starting the Labs, Hannah worked in the Boston Consulting Group&rsquo;s Global Public Health &amp; Development practice, at Acumen on domestic impact investing strategy, and at Embrace Global, a social enterprise based in Bangalore, India.</p>
 					</div> <!-- /.collapse -->
 				</li>		
 
@@ -278,9 +278,9 @@
 				<p class="p-listing"><strong>Dinorah Cantú-Pedraza</strong><br />
 				<span class="p-title"> Director, The GovLab Academy, GovLab</span></p></a>
 					<div class="collapse" id="bio-cantu">
-						<p>Dinorah Cantú-Pedraza coordinates the <a href="http://govlabacademy.org/" target="_blank">GovLab Academy</a>, a Knight-Foundation funded online institute aimed at helping government and social innovators take innovative projects from idea to implementation. Under her direction, the Academy has worked with over five hundred innovators from more than 30 countries online and off over the last two years. Thousands more have watched its skill-building videos. She has put together over 12 <a href="http://govlabacademy.org/coaching-programs.html" target="_blank">Coaching Programs</a>, the Academy’s signature mentoring and peer to peer learning initiative, where over 95% of whose participants complete the program.</p>
+						<p>Dinorah Cantú-Pedraza coordinates the <a href="http://govlabacademy.org/" target="_blank">GovLab Academy</a>, a Knight-Foundation funded online institute aimed at helping government and social innovators take innovative projects from idea to implementation. Under her direction, the Academy has worked with over five hundred innovators from more than 30 countries online and off over the last two years. Thousands more have watched its skill-building videos. She has put together over 12 <a href="http://govlabacademy.org/coaching-programs.html" target="_blank">Coaching Programs</a>, the Academy&rsquo;s signature mentoring and peer to peer learning initiative, where over 95% of whose participants complete the program.</p>
 
-						<p>The Academy is a project of the <a href="http://www.thegovlab.org/" target="_blank">Governance Lab</a>, based at New York University. GovLab focuses on the use of technology to improve how we govern. Dinorah has also designed the GovLab’s <a href="http://crowdsourcingadvisor.org/" target="_blank">Crowdsorcerer</a> expert system, a software tool to deliver customized case studies to government leaders about open innovation. Working together with lawyers and education experts from NYU, she also designed an expert system to help universities determine the legal requirements for offering online education. She also runs the GovLab’s <a href="http://thegovlab.org/category/democracy-demos/" target="_blank">Demos for Democracy</a> video series where she interviews leading technologists about new platforms to advance the public interest.</p>
+						<p>The Academy is a project of the <a href="http://www.thegovlab.org/" target="_blank">Governance Lab</a>, based at New York University. GovLab focuses on the use of technology to improve how we govern. Dinorah has also designed the GovLab&rsquo;s <a href="http://crowdsourcingadvisor.org/" target="_blank">Crowdsorcerer</a> expert system, a software tool to deliver customized case studies to government leaders about open innovation. Working together with lawyers and education experts from NYU, she also designed an expert system to help universities determine the legal requirements for offering online education. She also runs the GovLab&rsquo;s <a href="http://thegovlab.org/category/democracy-demos/" target="_blank">Demos for Democracy</a> video series where she interviews leading technologists about new platforms to advance the public interest.</p>
 					</div> <!-- /.collapse -->
 				</li>		
 
@@ -299,7 +299,7 @@
 				<p class="p-listing"><strong>Moderator: Matthew Stempeck</strong><br />
 				<span class="p-title">Director of Civic Technology, Microsoft</span></p></a>
 					<div class="collapse" id="bio-stempeck">
-						<p>As Microsoft’s Director of Civic Technology in New York City, Matt leads strategic outreach and develops creative engagement opportunities. Previously, Matt researched and designed technologies for civic impact at non-profits, startups, consultancies, and other technology companies. He has a Master's of Science from the MIT Media Lab’s Center for Civic Media, where he quantified global media attention to stories like Trayvon Martin, studied the emerging field of tech-driven peer-to-peer humanitarian aid, and built award-winning creative tools to fight misinformation online.</p>
+						<p>As Microsoft&rsquo;s Director of Civic Technology in New York City, Matt leads strategic outreach and develops creative engagement opportunities. Previously, Matt researched and designed technologies for civic impact at non-profits, startups, consultancies, and other technology companies. He has a Master's of Science from the MIT Media Lab&rsquo;s Center for Civic Media, where he quantified global media attention to stories like Trayvon Martin, studied the emerging field of tech-driven peer-to-peer humanitarian aid, and built award-winning creative tools to fight misinformation online.</p>
 
 						<p>Prior to MIT, Matt led online campaigns, communications, and tech trainings for the New Organizing Institute, Americans for Campaign Reform, and EchoDitto. Matt also holds a BA with honors from the University of Maryland College Park, where he wrote a thesis on the disruption participatory media brought to political journalism. He grew up outside of Boston and has also lived in London, San Francisco, and Washington, DC.</p>
 					</div> <!-- /.collapse -->
@@ -361,9 +361,9 @@
 				<p class="p-listing"><strong>Jason DaSilva</strong><br />
 				<span class="p-title">Founder, AXS Map</span></p></a>
 					<div class="collapse" id="bio-dasilva">
-						<p>Jason DaSilva has been a prolific filmmaker for the past 10 years. He has directed four short films (OLIVIA’S PUZZLE, A SONG FOR DANIEL, TWINS OF MANKALA, and FIRST STEPS) and two feature-length documentary films (LEST WE FORGET and WHEN I WALK). Many of his films have won awards; OLIVIA’S PUZZLE premiered at the 2003 Sundance Festival and qualified for an Academy Award. Three of his films have had national broadcasts on PBS, HBO, and CBC. He also produced Shocking and Awful, a film installation on the anti-Iraq war movement, exhibited at the 2006 Whitney Biennial. Each one of these works advanced Jason’s objective to give voice to those on the periphery of society. In 2006 Jason took a short break from filmmaking to earn his MFA in Applied Media Arts from Emily Carr University.</p>
+						<p>Jason DaSilva has been a prolific filmmaker for the past 10 years. He has directed four short films (OLIVIA&rsquo;S PUZZLE, A SONG FOR DANIEL, TWINS OF MANKALA, and FIRST STEPS) and two feature-length documentary films (LEST WE FORGET and WHEN I WALK). Many of his films have won awards; OLIVIA&rsquo;S PUZZLE premiered at the 2003 Sundance Festival and qualified for an Academy Award. Three of his films have had national broadcasts on PBS, HBO, and CBC. He also produced Shocking and Awful, a film installation on the anti-Iraq war movement, exhibited at the 2006 Whitney Biennial. Each one of these works advanced Jason&rsquo;s objective to give voice to those on the periphery of society. In 2006 Jason took a short break from filmmaking to earn his MFA in Applied Media Arts from Emily Carr University.</p>
 
-						<p>He recently produced and directed an Op-Doc (opinion documentary) for the New York Times called ‘The Long Wait,’ published in January 2013. DaSilva’s latest film, WHEN I WALK, was an Official Selection of the 2013 Sundance Film Festival and won Best Canadian Feature at HotDocs 2013. Following the film’s theatrical release this fall, it will air on POV on PBS in 2014. He currently lives and works in Brooklyn, New York.</p>
+						<p>He recently produced and directed an Op-Doc (opinion documentary) for the New York Times called ‘The Long Wait,&rsquo; published in January 2013. DaSilva&rsquo;s latest film, WHEN I WALK, was an Official Selection of the 2013 Sundance Film Festival and won Best Canadian Feature at HotDocs 2013. Following the film&rsquo;s theatrical release this fall, it will air on POV on PBS in 2014. He currently lives and works in Brooklyn, New York.</p>
 					</div> <!-- /.collapse -->
 				</li>		
 
@@ -402,9 +402,9 @@
 				<p class="p-listing"><strong>Moderator: Paul Russo</strong><br />
 				<span class="p-title">Current Vice Provost &amp; Dean, YU School of Graduate and Professional Studies</span></p></a>
 					<div class="collapse" id="bio-russo">
-						<p>Dr. Paul Russo is Vice Provost at Yeshiva University and Dean for Yeshiva University’s School for Graduate and Professional Studies. He is also a member of the faculty at NYU Tandon School of Engineering, Department of Technology Management. Before joining Yeshiva, Dr. Russo held positions as Assistant Vice President for Curriculum and Instruction at Long Island University and Director of Online Programs at The City University of New York (CUNY).</p>
+						<p>Dr. Paul Russo is Vice Provost at Yeshiva University and Dean for Yeshiva University&rsquo;s School for Graduate and Professional Studies. He is also a member of the faculty at NYU Tandon School of Engineering, Department of Technology Management. Before joining Yeshiva, Dr. Russo held positions as Assistant Vice President for Curriculum and Instruction at Long Island University and Director of Online Programs at The City University of New York (CUNY).</p>
 
-						<p>Dr. Russo has over fifteen years experience in leading self-supporting higher education divisions. At LIU, he led the university’s strategic planning process for online education and faculty development. His accomplishments include incorporating new methods for labor market research into degree planning to ensure curricula are tightly aligned with employer needs and that students graduate ready for high-growth, high-wage careers.</p>
+						<p>Dr. Russo has over fifteen years experience in leading self-supporting higher education divisions. At LIU, he led the university&rsquo;s strategic planning process for online education and faculty development. His accomplishments include incorporating new methods for labor market research into degree planning to ensure curricula are tightly aligned with employer needs and that students graduate ready for high-growth, high-wage careers.</p>
 					</div> <!-- /.collapse -->
 				</li>		
 
@@ -449,7 +449,7 @@
 
 		<div class="col-md-9 col-md-push-3">
 			<h2>Networking Mixer</h2>
-			<p>Join us for this happy hour to mix and mingle with Downtown Brooklyn students and industry professionals from the Brooklyn Tech Triangle.  Find your next internship or job, build your professional network and start to build your entrepreneurship “dream team” for the weekend’s Hack Brooklyn Innovation Challenge.</p>
+			<p>Join us for this happy hour to mix and mingle with Downtown Brooklyn students and industry professionals from the Brooklyn Tech Triangle.  Find your next internship or job, build your professional network and start to build your entrepreneurship &ldquo;dream team&rdquo; for the weekend&rsquo;s Hack Brooklyn Innovation Challenge.</p>
 		</div> <!-- /.col-md-9 -->
 
 
@@ -497,7 +497,7 @@
 			<ul>
 			<li><a href="http://happyfuncorp.com/#home" target="_blank">HappyFunCorp</a></li>
 			<li><a href="https://www.wework.com/locations/new-york-city/dumbo-heights" target="_blank">WeWork Dumbo Heights </a></li>
-			<li><a href="http://berkeleycollege.edu/locations_bc/brooklyn.htm" target="_blank">Macy’s Fashion Incubator at Berkeley College</a></li>
+			<li><a href="http://berkeleycollege.edu/locations_bc/brooklyn.htm" target="_blank">Macy&rsquo;s Fashion Incubator at Berkeley College</a></li>
 			<li><a href="http://thisalso.com/" target="_blank">This Also</a></li>
 			</ul>
 
@@ -586,7 +586,7 @@ Global Fund Services Product Development</span></p></a>
 					<div class="collapse" id="bio-edwards">
 						<p>For more than two decades, John Edwards has been at the forefront of the workforce development and training services field. John has devoted his expertise to aid jobseekers that face difficult times in the age of job loss, downsizing, competition, as well as navigating multiple barriers.</p>
 
-						<p>While at the Consortium for Worker Education, John commanded their career and outplacement services and effected immediate results among the clients. Directing one of New York City’s largest training and development operations, John earned the respect and praise from both clients and colleagues. With John’s sophistication spanning the entire corporate and nonprofit spectrums, he left the Consortium for Worker Education and to lead workforce development teams at organizations such as Vocational Foundation and Bedford Stuyvesant Restoration Corp.</p>
+						<p>While at the Consortium for Worker Education, John commanded their career and outplacement services and effected immediate results among the clients. Directing one of New York City&rsquo;s largest training and development operations, John earned the respect and praise from both clients and colleagues. With John&rsquo;s sophistication spanning the entire corporate and nonprofit spectrums, he left the Consortium for Worker Education and to lead workforce development teams at organizations such as Vocational Foundation and Bedford Stuyvesant Restoration Corp.</p>
 
 						<p>With this breadth of experience, John secured a position with Metropolitan College of New York where he directed operations for the Office of Career Development. Over the years, John has played a major role in the development of resources and activities for New York City jobseekers and career changers, as well as routinely participating in various workforce committees.</p>
 					</div> <!-- /.collapse -->
@@ -640,7 +640,7 @@ Global Fund Services Product Development</span></p></a>
 		<div class="col-md-9 col-md-push-3">
 
 			<h2>Create the Job</h2>
-			<p>If you don’t see the job you want, create it! Not everyone follows a traditional career path. If you’ve got an idea for starting your own company or want to explore life in the startup world, you won’t want to miss this panel.</p>
+			<p>If you don&rsquo;t see the job you want, create it! Not everyone follows a traditional career path. If you&rsquo;ve got an idea for starting your own company or want to explore life in the startup world, you won&rsquo;t want to miss this panel.</p>
 
 			<ul class="panelists list-unstyled">
 
@@ -673,11 +673,11 @@ Global Fund Services Product Development</span></p></a>
 					<div class="collapse" id="bio-kuyan">
 						<p>Steven Kuyan is Managing Director of Incubators and Entrepreneurship at the NYU Tandon School of Engineering. He co-founded and is responsible for managing two of the three incubators located at Varick Street in Soho and DUMBO in Brooklyn. On campus, Steven develops strategic initiatives to accelerate innovation at the University through programs that catalyze student innovation.</p>
 
-						<p>The incubators at NYU were the first New York City sponsored incubators and developed the model for the city’s Incubator Network. The unique incubation process has graduated XXX companies, nine graduated as acquisitions, with a combined portfolio valuation of $721M. Worth Magazine named the Incubators at NYU one of the top 10 startup spaces in the US.</p>
+						<p>The incubators at NYU were the first New York City sponsored incubators and developed the model for the city&rsquo;s Incubator Network. The unique incubation process has graduated XXX companies, nine graduated as acquisitions, with a combined portfolio valuation of $721M. Worth Magazine named the Incubators at NYU one of the top 10 startup spaces in the US.</p>
 
 						<p>Prior to the incubators, Steven founded and co-founded three ventures in the mobile, B2B logistics and retail.</p>
 
-						<p>Steven is an adjunct professor of Graduate Entrepreneurship at Tandon and leads entrepreneurship curriculum across the University, including new courses and initiatives such as the Veteran Entrepreneurship Training (VET) Program. Steven is also the founder, advisor and board member of the NYU’s Entrepreneurship and Innovation Association (EIA), Tandon’s largest student organization with a mission of bridging the gap between academia and entrepreneurship to streamline student ventures.</p>
+						<p>Steven is an adjunct professor of Graduate Entrepreneurship at Tandon and leads entrepreneurship curriculum across the University, including new courses and initiatives such as the Veteran Entrepreneurship Training (VET) Program. Steven is also the founder, advisor and board member of the NYU&rsquo;s Entrepreneurship and Innovation Association (EIA), Tandon&rsquo;s largest student organization with a mission of bridging the gap between academia and entrepreneurship to streamline student ventures.</p>
 					</div> <!-- /.collapse -->
 				</li>	
 
@@ -687,9 +687,9 @@ Global Fund Services Product Development</span></p></a>
 				<p class="p-listing"><strong>Katja Schroeder</strong><br />
 				<span class="p-title">Managing Director, Bloom PR</span></p></a>
 					<div class="collapse" id="bio-schroeder">
-						<p>Katja Schroeder has created integrated communications campaigns for technology companies in North America, Europe and Asia-Pacific to build and strengthen their market position. Her passion is to communicate the positive impact of technology innovation. She has been counseling innovative companies, including SAP, Planet Solar, zkipster, Seed&Spark, tado° and the Race for Water Foundation on their communications strategies. Schroeder was a director at Burson-Marsteller and Senior Vice President at Ruder Finn NY, handling transnational PR programs for clients. She also built Ruder Finn’s technology practice in China to provide clients counsel on market-entry and positioning programs. Schroeder started her career in Europe as a freelancer for K&amp;K Kohtes &amp; Klewes (now Ketchum pleon, Germany), Weber Shandwick Paris (France) and ABC Berlin (Germany).</p>
+						<p>Katja Schroeder has created integrated communications campaigns for technology companies in North America, Europe and Asia-Pacific to build and strengthen their market position. Her passion is to communicate the positive impact of technology innovation. She has been counseling innovative companies, including SAP, Planet Solar, zkipster, Seed&Spark, tado° and the Race for Water Foundation on their communications strategies. Schroeder was a director at Burson-Marsteller and Senior Vice President at Ruder Finn NY, handling transnational PR programs for clients. She also built Ruder Finn&rsquo;s technology practice in China to provide clients counsel on market-entry and positioning programs. Schroeder started her career in Europe as a freelancer for K&amp;K Kohtes &amp; Klewes (now Ketchum pleon, Germany), Weber Shandwick Paris (France) and ABC Berlin (Germany).</p>
 						
-						<p>Katja Schroeder co-authored the chapter on global corporate communications in “Reputation Management: The Key for Successful Public Relations and Corporate Communications”, by John Doorley/Helio Fred Garcia (2010/2015). She holds both a Master in Information and Communication Sciences from Sorbonne in Paris, France, and a Master of Arts in Communication from Free University in Berlin, Germany, as well as Diploma in European Public Relations. She is a certified CSR practitioner.
+						<p>Katja Schroeder co-authored the chapter on global corporate communications in &ldquo;Reputation Management: The Key for Successful Public Relations and Corporate Communications&rdquo;, by John Doorley/Helio Fred Garcia (2010/2015). She holds both a Master in Information and Communication Sciences from Sorbonne in Paris, France, and a Master of Arts in Communication from Free University in Berlin, Germany, as well as Diploma in European Public Relations. She is a certified CSR practitioner.
 
 						<p>Schroeder is on the Board of the Center for Entrepreneurship at St. Francis College and an Adjunct Professor for International Marketing at the college.</p>
 					</div> <!-- /.collapse -->
@@ -743,8 +743,8 @@ Global Fund Services Product Development</span></p></a>
 	<div class="event">
 
 		<div class="col-md-9 col-md-push-3">
-			<h2>Hack Your Way To The Top: How Hackathons Help Your Career, Even If You’re Not a Coder</h2>
-			<p>Hackathons bring great minds together from all disciplines – not only coders - to create innovative solutions to common, but difficult challenges. They also help build up your resume when you use high-level problem solving and focused teamwork to come up with a fully fleshed out solution that you can showcase when applying for jobs. This panel is made up of judges and mentors from the weekend hackathon – who knows, maybe you’ll be inspired to take part!</p>
+			<h2>Hack Your Way To The Top: How Hackathons Help Your Career, Even If You&rsquo;re Not a Coder</h2>
+			<p>Hackathons bring great minds together from all disciplines – not only coders - to create innovative solutions to common, but difficult challenges. They also help build up your resume when you use high-level problem solving and focused teamwork to come up with a fully fleshed out solution that you can showcase when applying for jobs. This panel is made up of judges and mentors from the weekend hackathon – who knows, maybe you&rsquo;ll be inspired to take part!</p>
 
 
 			<ul class="panelists list-unstyled">
@@ -754,7 +754,7 @@ Global Fund Services Product Development</span></p></a>
 				<p class="p-listing"><strong>Shaun Johnson</strong><br />
 				<span class="p-title">Co-Founder and New York Program Director, Startup Institute</span></p></a>
 					<div class="collapse" id="bio-johnson">
-						<p>Shaun is responsible for strategy and operations at Startup Institute. His background includes serving as an associate at TechStars, and consulting for Booz Allen Hamilton’s Strategic Technology and Innovation practice. Combined with his experience in athletics and acting, this allows him to create a competitive and collaborative environment where intelligence and improv conquer all challenges. Shaun holds a B.A. in computer science and sociology from Georgetown University and an M.S. in information systems from Johns Hopkins University.</p>
+						<p>Shaun is responsible for strategy and operations at Startup Institute. His background includes serving as an associate at TechStars, and consulting for Booz Allen Hamilton&rsquo;s Strategic Technology and Innovation practice. Combined with his experience in athletics and acting, this allows him to create a competitive and collaborative environment where intelligence and improv conquer all challenges. Shaun holds a B.A. in computer science and sociology from Georgetown University and an M.S. in information systems from Johns Hopkins University.</p>
 					</div> <!-- /.collapse -->
 				</li>		
 
@@ -796,9 +796,9 @@ Global Fund Services Product Development</span></p></a>
 				<p class="p-listing"><strong>Moderator: Robert Wu</strong><br />
 				<span class="p-title">Director, St Francis College Center for Entrepreneurship</span></p></a>
 					<div class="collapse" id="bio-wu">
-						<p>Professor Robert Wu, J.D., M.B.A. is the Director of the St Francis College Center for Entrepreneurship and advises entrepreneurs in financial and legal needs. Wu is also an Assistant Professor of Accounting & Business Law at St. Francis College in Brooklyn, New York, where he teaches courses in Elementary Accounting, Auditing, Investment Analysis, Business Law and Accounting Information Systems.</p>
+						<p>Professor Robert Wu, J.D., M.B.A. is the Director of the St Francis College Center for Entrepreneurship and advises entrepreneurs in financial and legal needs. Wu is also an Assistant Professor of Accounting &amp; Business Law at St. Francis College in Brooklyn, New York, where he teaches courses in Elementary Accounting, Auditing, Investment Analysis, Business Law and Accounting Information Systems.</p>
 
-						<p>After beginning his career as a staff accountant for Ernst & Young, LLP, then transitioning into the product control group supporting the high-yield fixed income trading desk within Deutsche Bank, Professor Wu’s legal career started as a judicial extern to a Justice of the New York State Supreme Court (New York County), as a legal assistant to Office of the Chief Counsel, U.S. Department of Homeland Security, Immigration & Customs Enforcement.  Professor Wu was later appointed Assistant District Attorney within the Office of the Kings County District Attorney, Money Laundering & Revenue Crimes Bureau.  He is licensed to practice law in New York, before the United States Tax Court, and in all matters of U.S. immigration law.</p>
+						<p>After beginning his career as a staff accountant for Ernst &amp; Young, LLP, then transitioning into the product control group supporting the high-yield fixed income trading desk within Deutsche Bank, Professor Wu&rsquo;s legal career started as a judicial extern to a Justice of the New York State Supreme Court (New York County), as a legal assistant to Office of the Chief Counsel, U.S. Department of Homeland Security, Immigration &amp; Customs Enforcement.  Professor Wu was later appointed Assistant District Attorney within the Office of the Kings County District Attorney, Money Laundering &amp; Revenue Crimes Bureau.  He is licensed to practice law in New York, before the United States Tax Court, and in all matters of U.S. immigration law.</p>
 					</div> <!-- /.collapse -->
 				</li>		
 
@@ -841,7 +841,7 @@ Global Fund Services Product Development</span></p></a>
 
 		<div class="col-md-9 col-md-push-3">
 			<h2>BE.IN Hack Brooklyn Innovation Challenge Kickoff</h2>
-			<p>Interested in helping to build a better Brooklyn? How about a better resume? If you’re a student in Downtown Brooklyn studying to become the next marketing genius, sales expert, design guru, data scientist, app developer, successful entrepreneur, political maneuverer, or you just love Brooklyn, take part in this weekend’s hackathon. You’ll form a team of fellow students and spend the weekend using your entrepreneurial skills to build prototype products and services for a greener, more sustainable Brooklyn – with dedicated mentoring by top Brooklyn innovation professionals. Hackathon winners receive a $2,000 cash prize. Free food and drink are included all weekend. Note: You must be a student (undergrad or graduate student) to participate. </p>
+			<p>Interested in helping to build a better Brooklyn? How about a better resume? If you&rsquo;re a student in Downtown Brooklyn studying to become the next marketing genius, sales expert, design guru, data scientist, app developer, successful entrepreneur, political maneuverer, or you just love Brooklyn, take part in this weekend&rsquo;s hackathon. You&rsquo;ll form a team of fellow students and spend the weekend using your entrepreneurial skills to build prototype products and services for a greener, more sustainable Brooklyn – with dedicated mentoring by top Brooklyn innovation professionals. Hackathon winners receive a $2,000 cash prize. Free food and drink are included all weekend. Note: You must be a student (undergrad or graduate student) to participate. </p>
 		</div> <!-- /.col-md-9 -->
 
 
