@@ -53,7 +53,7 @@ function wp_bootstrap_pagination( $args = array() ) {
     
     $firstpage = esc_attr( get_pagenum_link(1) );
     if ( $firstpage && (1 != $page) )
-        $echo .= '<li class="previous"><a href="' . $firstpage . '">' . __( '<small><span class="icon-controller-jump-to-start"></span></small>', 'text-domain' ) . '</a></li>';
+        $echo .= '<li class="previous"><a href="' . $firstpage . '">' . __( '<small><span class="icon-angle-left"></span></small>', 'text-domain' ) . '</a></li>';
     if ( $previous && (1 != $page) )
         $echo .= '<li><a href="' . $previous . '" title="' . __( 'previous', 'text-domain') . '">' . $args['previous_string'] . '</a></li>';
     
@@ -74,7 +74,7 @@ function wp_bootstrap_pagination( $args = array() ) {
     
     $lastpage = esc_attr( get_pagenum_link($count) );
     if ( $lastpage ) {
-        $echo .= '<li class="next"><a href="' . $lastpage . '">' . __( '<small><span class="icon-controller-next"></span></small>', 'text-domain' ) . '</a></li>';
+        $echo .= '<li class="next"><a href="' . $lastpage . '">' . __( '<small><span class="icon-angle-right"></span></small>', 'text-domain' ) . '</a></li>';
     }
     if ( isset($echo) )
         echo $args['before_output'] . $echo . $args['after_output'];

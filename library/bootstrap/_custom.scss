@@ -451,14 +451,14 @@ $pagination-disabled-border:           #ddd !default;
 
 // Pager
 
-$pager-bg:                             $pagination-bg !default;
-$pager-border-width:                   $border-width !default;
-$pager-border-color:                   $pagination-border-color !default;
-$pager-border-radius:                  15px !default;
+$pager-bg:                             transparent; //$pagination-bg !default;
+$pager-border-width:                   0; //$border-width !default;
+$pager-border-color:                   transparent; //$pagination-border-color !default;
+$pager-border-radius:                  0; //15px !default;
 
-$pager-hover-bg:                       $pagination-hover-bg !default;
+$pager-hover-bg:                       transparent; //$pagination-hover-bg !default;
 
-$pager-active-bg:                      $pagination-active-bg !default;
+$pager-active-bg:                      transparent; //$pagination-active-bg !default;
 $pager-active-color:                   $pagination-active-color !default;
 
 $pager-disabled-color:                 $pagination-disabled-color !default;

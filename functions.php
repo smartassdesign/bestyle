@@ -136,8 +136,8 @@ require_once('inc/wp_bootstrap_pagination.php');
 
 function customize_wp_bootstrap_pagination($args) {
 
-    $args['previous_string'] = '<small><span class="icon-controller-fast-backward"></span></small>';
-    $args['next_string'] = '<small><span class="icon-controller-fast-forward"></span></small>';
+    $args['previous_string'] = '<small><span class="icon-angle-double-left"></span></small>';
+    $args['next_string'] = '<small><span class="icon-angle-double-right"></span></small>';
 
     return $args;
 }
