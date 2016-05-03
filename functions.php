@@ -18,6 +18,8 @@
     // Register the library again from Google's CDN
     wp_register_script( 'jquery', 'http://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js', array(), null, false );
 
+	wp_enqueue_script( 'tether', get_stylesheet_directory_uri() . '/assets/js/tether.min.js', array(), '1.1', true );    
+
 		wp_enqueue_script( 'app', get_stylesheet_directory_uri() . '/assets/js/app-min.js', array( 'jquery' ), '1.0', true );
 
 	}
