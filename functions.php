@@ -130,6 +130,18 @@ remove_meta_box('tribe_dashboard_widget', 'dashboard', 'normal');
 add_action('wp_dashboard_setup', 'remove_tribe_dashboard_widget');
 
 
+// ADD PAGINATION
+
+require_once('inc/wp_bootstrap_pagination.php');
+
+function customize_wp_bootstrap_pagination($args) {
+
+    $args['previous_string'] = '<small><span class="icon-controller-fast-backward"></span></small>';
+    $args['next_string'] = '<small><span class="icon-controller-fast-forward"></span></small>';
+
+    return $args;
+}
+add_filter('wp_bootstrap_pagination_defaults', 'customize_wp_bootstrap_pagination');
 
 
 

@@ -1,37 +1,44 @@
-<?php get_header(); the_post(); ?>
+<!-- Template file for displaying latests posts -->
+<?php get_header(); ?>
 
-<?php /* //get all the posts however your query does it. simple example when there aren't a lot:
-$args = array("nopaging" => true);
-$posts = (new WP_Query($args))->posts;
 
-//filter the posts array by looking up the thumb_url and seeing if it's empty
-$posts_without_thumbnails = array_filter($posts,  function($post){
-  $post_thumbnail_id = get_post_thumbnail_id( $post->ID );
-  return ( wp_get_attachment_thumb_url( $post_thumbnail_id ) == "");
-} ); */ ?>
+<div class="container p-y-3">
 
-	<div class="m-b-3">
-		<?php /* echo get_the_post_thumbnail( $post->ID, 'full', array( 'class' => 'img-fluid img-featured' ) ); */ ?>
-	</div>
 
-<div class="container">
+				<?php
+				$places_args = array(
+					'posts_per_page'	=> 6,
+						'post_type'			=> 'post',
+						'orderby'         => 'date',
+						'order'           => 'DESC',
+						'paged'           => ( get_query_var('paged') ? get_query_var('paged') : 1 )
+					);
+				$places_query = new WP_Query( $places_args );
+				if( $places_query->have_posts() ):			
+					while( $places_query->have_posts() ) : $places_query->the_post(); 
+			 get_template_part( 'content', get_post_format() );
+					endwhile;
+				?>
 
-	<article id="<?php echo $post->post_name;?>">
-		<a href="<?php echo the_permalink(); ?>">
-			<div class="col-md-4">
-			<?php echo get_the_post_thumbnail( $post_id, 'full', array( 'class' => 'img-full img-fluid' ) ); ?>					
-			</div> <!-- /.col-md-4 -->
-			</a>				
-		
-		<div class="col-md-8">
-		<a href="<?php the_permalink(); ?>">
-		<h2><?php the_title(); ?></h2>
-		</a>
-		<?php the_excerpt(); ?>
-		</div> <!-- /.col-md-8 -->
-		</div> <!-- /.row -->
-	</article>
 
-</div>	<!-- /.container -->
+				<?php
+				//hack fix for pagination see: http://wordpress.stackexchange.com/questions/120407/how-to-fix-pagination-for-custom-loops/120408#120408
+				$temp_query = $wp_query;
+				$wp_query   = NULL;
+				$wp_query   = $places_query;
+				
+				if ( function_exists('wp_bootstrap_pagination') )	
+					wp_bootstrap_pagination();
+			//reset main query
+				$wp_query = NULL;
+				$wp_query = $temp_query;
+			endif;
+			wp_reset_query();
+			?>		
+
+</div> <!-- /.container -->
+
+
+
 
 <?php get_footer(); ?>
