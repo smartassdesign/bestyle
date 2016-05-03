@@ -158,3 +158,17 @@ add_filter('wp_bootstrap_pagination_defaults', 'customize_wp_bootstrap_paginatio
 // add_action('admin_print_styles', 'admin_css' );
 
 
+// REMOVE DASHBOARD METABOXES
+
+function remove_dashboard_meta() {
+        remove_meta_box( 'dashboard_incoming_links', 'dashboard', 'normal' );
+        remove_meta_box( 'dashboard_plugins', 'dashboard', 'normal' );
+        remove_meta_box( 'dashboard_primary', 'dashboard', 'normal' );
+        remove_meta_box( 'dashboard_secondary', 'dashboard', 'normal' );
+        remove_meta_box( 'dashboard_incoming_links', 'dashboard', 'normal' );
+        // remove_meta_box( 'dashboard_quick_press', 'dashboard', 'side' );
+        // remove_meta_box( 'dashboard_recent_drafts', 'dashboard', 'side' );
+        remove_meta_box( 'dashboard_recent_comments', 'dashboard', 'normal' );
+        remove_meta_box( 'dashboard_right_now', 'dashboard', 'normal' );
+}
+add_action( 'admin_init', 'remove_dashboard_meta' );
