@@ -17,7 +17,6 @@
 	</div> <!-- /.container -->	
 
 	<hr class="m-y-2">	
-<?php /* echo do_shortcode('[new_royalslider id="1"]')  */ ?>
 <?php } ?>
 
 <div class="container">
