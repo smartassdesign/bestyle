@@ -1,17 +1,5 @@
 <?php get_header(); the_post(); ?>
 
-<div class="container">
-	<div class="row">
-		<div class="col-md-10 col-md-offset-1">
-			<div class="mission p-t-1 text-md-center">
-				<h1>Downtown Brooklyn is a College Town and a Center for Innovation.</h1>
-				<h2>The Brooklyn Education Innovation Network (BE.IN) serves as a local talent pipeline connecting students to industry and community through internships, jobs, events, and programming.</h2>
-			</div> <!-- /.mission -->
-		</div> <!-- /.col-md-12 -->
-	</div> <!-- /.row -->
-</div> <!-- /.container -->
-
-
 <?php //get all the posts however your query does it. simple example when there aren't a lot:
 $args = array("nopaging" => true);
 $posts = (new WP_Query($args))->posts;
@@ -25,6 +13,16 @@ $posts_without_thumbnails = array_filter($posts,  function($post){
 	<?php echo do_shortcode('[new_royalslider id="2"]')  ?>
 		<?php /*echo get_the_post_thumbnail( $post->ID, 'full', array( 'class' => 'img-fluid img-featured' ) ); */ ?>
 
+<div class="container">
+	<div class="row">
+		<div class="col-md-10 col-md-offset-1">
+			<div class="mission p-t-1 text-md-center">
+				<h1>Downtown Brooklyn is a College Town and a Center for Innovation.</h1>
+				<h2>The Brooklyn Education Innovation Network (BE.IN) serves as a local talent pipeline connecting students to industry and community through internships, jobs, events, and programming.</h2>
+			</div> <!-- /.mission -->
+		</div> <!-- /.col-md-12 -->
+	</div> <!-- /.row -->
+</div> <!-- /.container -->
 <div class="container">
 
 	<article id="<?php echo $post->post_name;?>">
